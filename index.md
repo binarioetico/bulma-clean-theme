@@ -14,7 +14,6 @@ This website showcases the options for the Bulma Clean theme. The theme is avail
 ![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
 
 ## Ruby Gem
-
 The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
 
 ## GitHub Pages
