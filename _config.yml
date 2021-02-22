@@ -12,6 +12,7 @@ gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 # fixed_navbar: top
+remote_theme: chrisrhymes/bulma-clean-theme
 
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -40,6 +41,9 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# include:
+  # - "img"
 
 livereload: true
 
