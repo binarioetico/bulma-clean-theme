@@ -13,6 +13,8 @@
       link: /ansible/
     - name: GitLab
       link: /gitlab/
+    - name: Docker
+      link: /docker/
 - name: Soluzioni
   link: /soluzioni/
 - name: Servizi
