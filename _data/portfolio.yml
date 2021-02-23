@@ -1,0 +1,23 @@
+intro: |-
+  Portfolio Binario Etico
+
+items:
+  - title: Cliente Università di Torino
+    description: |-
+      __Tipologia:__ Consulenza e integrazione
+
+      __Tecnologia:__ OpenStack
+
+      __Descrizione:__ Imtegrazione storage Unity nelle componenti
+      Cinder e Manila della cloud OpenStack dell'Università di Torino
+    image: /img/portfolio/uni_torino.png
+    image_ratio: has-ratio
+  - title: Cliente Aubay
+    description: |-
+      __Tipologia:__ Formazione
+
+      __Tecnologia:__ Kubernetes, OpenShift
+
+      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
+    image: /img/portfolio/aubay.jpg
+    image_ratio: has-ratio

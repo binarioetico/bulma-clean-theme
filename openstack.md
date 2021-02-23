@@ -3,7 +3,7 @@ title: OpenStack
 subtitle: Il sistema operativo cloud più diffuso al mondo.
 layout: page
 show_sidebar: false
-hero_image: http://127.0.0.1:4000/bulma-clean-theme/img/nasa-Q1p7bh3SHj8-unsplash.jpg
+hero_image: ../img/nasa-Q1p7bh3SHj8-unsplash.jpg
 ---
 ## OpenStack
 <!-- ![OpenStack logo]({{ 'openstack-logo-vertical' | append: '.svg' | prepend: '/img/' | prepend: site.baseurl }}) -->
