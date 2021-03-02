@@ -7,7 +7,16 @@
 
     {% for item in showcase.items %}
         <section class="showcase">
-            <figure class="image {% if item.image_ratio %} {{ item.image_ratio }} {% else %} is-16by9 {% endif %}">
+            <!-- <figure class="image {% if item.image_ratio %} {{ item.image_ratio }} {% else %} is-16by9 {% endif %}"> -->
+            <div class="row">
+              <div class="columns">
+                <img src="{{ item.image | relative_url }}" />
+                </div>
+              <div class="columns">
+                <img src="{{ item.image | relative_url }}" />
+              </div>
+            </div>
+            <figure class="image {% if item.image_ratio %} {{ item.image_ratio }} {% else %} is-portfolio {% endif %}">
                 <img src="{{ item.image | relative_url }}" />
             </figure>
             <div class="showcase-content">

@@ -42,8 +42,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-# include:
-  # - "img"
+# site-css:
+#   - "assets/css/custom.css"
 
 livereload: true
 
