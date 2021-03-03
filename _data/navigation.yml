@@ -16,21 +16,21 @@
 - name: Soluzioni
   link: /#
   dropdown:  
-    - name: Kubernetes
-      link: /kubernetes/
-    - name: Rancher
-      link: /rancher/
-    - name: OpenShift
-      link: /openshift/
-    - name: OpenStack                                                                                                                                                                                          
-      link: /OpenStack/
-    - name: Ansible
-      link: /ansible/
-    - name: GitLab
-      link: /gitlab/
+    - name: Private/Hybrid Cloud
+      link: /privatehybrid/
+    - name: Container orchestration
+      link: /containerorchestration/
+    - name: Automation, monitoring and alarming
+      link: /automation/
+    - name: Cybersecurity design and control
+      link: /cybersecurity/
+    - name: Network design & management
+      link: /networddesign/
+    - name: Infrastructure & service migrations
+      link: /infrastructuremigration/
 - name: Formazione
   link: /formazione/
-- name: Blog
-  link: /blog/
 - name: Portfolio
   link: /portfolio/
+- name: Blog
+  link: /blog/
