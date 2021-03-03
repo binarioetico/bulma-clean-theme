@@ -9,12 +9,12 @@
       link: /rancher/
     - name: OpenShift
       link: /openshift/
+    - name: GitLab
+      link: /gitlab/
     - name: OpenStack
       link: /OpenStack/
     - name: Ansible
       link: /ansible/
-    - name: GitLab
-      link: /gitlab/
 - name: Soluzioni
   link: /#
   dropdown:  
@@ -22,9 +22,9 @@
       link: /privatehybrid/
     - name: Container orchestration
       link: /containerorchestration/
-    - name: Automation, monitoring and alarming
+    - name: Automation, monitoring & alarming
       link: /automation/
-    - name: Cybersecurity design and control
+    - name: Cybersecurity design & control
       link: /cybersecurity/
     - name: Network design & management
       link: /networddesign/
