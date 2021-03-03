@@ -1,10 +1,10 @@
 - name: Prodotti
   link: /#
   dropdown:
-    - name: Rancher
-      link: /rancher/
     - name: Kubernetes
       link: /kubernetes/
+    - name: Rancher
+      link: /rancher/
     - name: OpenShift
       link: /openshift/
     - name: OpenStack
@@ -13,12 +13,23 @@
       link: /ansible/
     - name: GitLab
       link: /gitlab/
-    - name: Docker
-      link: /docker/
 - name: Soluzioni
-  link: /soluzioni/
-- name: Servizi
-  link: /servizi/
+  link: /#
+  dropdown:  
+    - name: Kubernetes
+      link: /kubernetes/
+    - name: Rancher
+      link: /rancher/
+    - name: OpenShift
+      link: /openshift/
+    - name: OpenStack                                                                                                                                                                                          
+      link: /OpenStack/
+    - name: Ansible
+      link: /ansible/
+    - name: GitLab
+      link: /gitlab/
+- name: Formazione
+  link: /formazione/
 - name: Blog
   link: /blog/
 - name: Portfolio
