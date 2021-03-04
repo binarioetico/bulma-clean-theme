@@ -11,11 +11,11 @@ show_sidebar: false
 Ingegneri con esperienza ventennale nelle infrastrutture IT e competenze verticali sui sistemi distribuiti cloud-native e sulla cybersecurity. Da sempre cultori di innovazione in ambito “Cloud and IT Automation” con tecnologie FOSS, siamo specializzati sul ciclo di vita del software e la gestione del runtime in ambienti cloud-native resilienti e monitorabili.  
 
 ### Cosa facciamo
-* Architetture cloud-native, in modalità Private o Hybrid, attraverso l'adozione di OpenStack, Kubernetes, Rancher e OpenShift.
-* Aggiornamento infrastrutturale, migrazioni e automazione con Ansible.
-* Penetration Testing e Vulnerability e Security Assessment sia su infrastrutture tradizionali che cloud.
-* Forniamo sistemi e competenze per la gestione del ciclo di vita del software in modalità CI/CD con GitLab, il monitoraggio del runtime e la gestione della sicurezza secondo il paradigma DevSecOps, integrando Anchore e SysDig nelle pipeline di sviluppo e deployment.
-* Formazione sui temi della Cloud and IT Automation, della Cybersecurity, della gestione del ciclo di vita del software e delle architetture IT moderne.  
+* Architetture **cloud-native**, in modalità **Private** o **Hybrid**, attraverso l'adozione di **OpenStack**, **Kubernetes**, **Rancher** e **OpenShift**.
+* Aggiornamento infrastrutturale, migrazioni e automazione con **Ansible**.
+* **Penetration Testing** e **Vulnerability e Security Assessment** sia su infrastrutture tradizionali che cloud.
+* Forniamo sistemi e competenze per la gestione del **ciclo di vita del software** in modalità **CI/CD** con **GitLab**, il monitoraggio del runtime e la gestione della sicurezza secondo il paradigma **DevSecOps**, integrando **Anchore** e **SysDig** nelle pipeline di sviluppo e deployment.
+* Formazione sui temi della **Cloud and IT Automation**, della **Cybersecurity**, della gestione del ciclo di vita del software e delle architetture IT moderne.  
 
 L’aggiornamento delle competenze, l’adozione di best practice e l’adeguamento alle misure di sicurezza e GDPR sono le nostre principali proposizioni.
 
