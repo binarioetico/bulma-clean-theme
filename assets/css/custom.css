@@ -28,7 +28,7 @@
 details summary::-webkit-details-marker {
   position: absolute;
   left: 0;
-  top: 45%;
+  top: 42%;
 }
 
 /* details {
@@ -43,4 +43,12 @@ summary {
   /* min-width: fit-content; */
   padding: 2vh;
   /* outline: 0.5px ridge grey; */
+}
+
+.soluzioni-reply {
+  padding-left: 1%;
+}
+
+.soluzioni-description {
+  padding-left: 3%;
 }

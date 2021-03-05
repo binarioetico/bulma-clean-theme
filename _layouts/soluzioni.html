@@ -13,11 +13,11 @@ layout: default
         <summary><h2>{{ item.name | markdownify }}</h2></summary>
         {% if item.description %}
           <details>
-            <summary><p>{{ item.reply | markdownify }}</p></summary>
-              <p>{{ item.description | markdownify }}</p>
+            <summary><div class="soluzioni-reply">{{ item.reply | markdownify }}</div></summary>
+              <div class="soluzioni-description">{{ item.description | markdownify }}</div>
           </details>
         {% else %}
-          <p>{{ item.reply | markdownify }}</p>
+          <div class="soluzioni-reply">{{ item.reply | markdownify }}</div>
         {% endif %}
       </details>
     {% endfor %}

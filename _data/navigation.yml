@@ -27,11 +27,9 @@
     - name: Cybersecurity design & control
       link: /cybersecurity/
     - name: Network design & management
-      link: /networddesign/
+      link: /networkdesign/
     - name: Infrastructure & service migrations
       link: /infrastructuremigration/
-    - name: SoluzioniTest
-      link: /soluzioni-test/
 - name: Formazione
   link: /formazione/
 - name: Portfolio
