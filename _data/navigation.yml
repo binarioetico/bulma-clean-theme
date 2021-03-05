@@ -17,7 +17,7 @@
       link: /ansible/
 - name: Soluzioni
   link: /#
-  dropdown:  
+  dropdown:
     - name: Private/Hybrid Cloud
       link: /privatehybrid/
     - name: Container orchestration
@@ -30,6 +30,8 @@
       link: /networddesign/
     - name: Infrastructure & service migrations
       link: /infrastructuremigration/
+    - name: SoluzioniTest
+      link: /soluzioni-test/
 - name: Formazione
   link: /formazione/
 - name: Portfolio

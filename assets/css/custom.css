@@ -24,3 +24,23 @@
 .footer-text {
   text-align: left;
 }
+
+details summary::-webkit-details-marker {
+  position: absolute;
+  left: 0;
+  top: 45%;
+}
+
+/* details {
+  min-width: fit-content;
+  cursor: pointer;
+  margin: 10vh 4px -5px 0;
+  padding: 0 0 0 10px;
+} */
+
+summary {
+  position: relative;
+  /* min-width: fit-content; */
+  padding: 2vh;
+  /* outline: 0.5px ridge grey; */
+}
