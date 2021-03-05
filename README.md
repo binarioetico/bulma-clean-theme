@@ -1,5 +1,5 @@
 # TODO
-- [] qualcosa
+- [ ] qualcosa
 
 # bulma-clean-theme
 
