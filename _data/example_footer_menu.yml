@@ -1,8 +1,23 @@
-- name: Home
-  link: /
-- name: Blog
-  link: /blog/
-- name: Products
-  link: /products/
+# - name: Home
+#   link: /
+# - name: Blog
+#   link: /blog/
+# - name: Products
+#   link: /products/
+- name: Binario Etico
+  description: >
+    BE SRLs - Società Benefit
+
+    Via Savoia, 44 - 00198 Roma
+
+    P.I/C.F.: 14228701000
 - name: Privacy Policy
   link: /privacy-policy/
+- name: Seguici su
+  social:
+    - favicon: twitter-square
+      link: https://twitter.com/binario_etico
+    - favicon: youtube-square
+      link: https://www.youtube.com/channel/UCZpIrkl0IBPgIpB1xz3qMMQ
+    - favicon: linkedin
+      link: http://www.linkedin.com/company/binario-etico

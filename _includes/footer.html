@@ -1,20 +1,37 @@
 <footer class="footer">
     <div class="container">
-        
+
         {% if site.footer_menu %}
         <div class="columns is-multiline">
             {% for item in site.data[site.footer_menu] %}
             <div class="column has-text-centered">
                 <div>
+                    {% if item.link | relative_url %}
                     <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                    {% elsif item.social %}
+                    <p class="">{{item.name}}</p>
+                    <div class="content">
+                      {% for item in item.social %}
+                        <a href="{{ item.link }}" class="link"><i class="fab fa-{{ item.favicon }} fa-2x"></i></a>
+
+                      {% endfor %}
+                    </div>
+                    {% else %}
+                    <p class="footer-text">{{ item.name }}</p>
+                      {% if item.description %}
+                        <div class="content">
+                            <p class="footer-text">{{ item.description | newline_to_br }}</p>
+                        </div>
+                      {% endif %}
+                    {% endif %}
                 </div>
             </div>
             {% endfor %}
         </div>
         {% endif %}
 
-        <div class="content is-small has-text-centered">
+        <!-- <div class="content is-small has-text-centered">
             <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
-        </div>
+        </div> -->
     </div>
 </footer>
