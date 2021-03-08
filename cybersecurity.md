@@ -4,6 +4,7 @@ subtitle: Analisi di sicurezza di reti e sistemi e design di soluzioni ad hoc.
 description: Utilizzo di controlli di sicurezza sia hardware che software.
 layout: soluzioni
 show_sidebar: false
+hero_image: ../img/cybersecurity_hero.jpeg
 questions:
   - name: Come analizzare la sicurezza di reti e sistemi?
     reply: Security Assessment, Vulnerability Analysis and Penetration Testing.

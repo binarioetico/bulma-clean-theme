@@ -14,6 +14,8 @@
 - [X] Footer: Dati aziendali (P. IVA, Codice Fiscale..)
 - [ ] brevissima descrizione dei prodotti (poche parole)
 - [X] Formazione: aggiungere ISTIO
+- [ ] Sistemare la navbar (vedere in assets/css/custom.css .navbar-bg), sfondo delle voci selezionate
+- [ ] Logo BE con nuovo testo (Digital Freedom)
 
 # bulma-clean-theme
 

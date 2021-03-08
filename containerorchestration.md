@@ -4,6 +4,7 @@ subtitle: Soluzioni Platform-as-a-Service (PaaS)
 description: Automazione e deployment automatico dei servizi aziendali
 layout: soluzioni
 show_sidebar: false
+hero_image: ../img/soluzioni_hero.jpeg
 questions:
   - name: Come posso dividere e sviluppare soluzioni con una logica container-like?
     reply: Micro-servizi

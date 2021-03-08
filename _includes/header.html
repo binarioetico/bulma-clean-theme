@@ -1,4 +1,4 @@
-<nav class="navbar is-primary {% if site.fixed_navbar %} is-fixed-{{ site.fixed_navbar }} {% endif %}">
+<nav class="navbar is-primary {% if site.fixed_navbar %} is-fixed-{{ site.fixed_navbar }} {% endif %} navbar-bg">
     <div class="container">
         <div class="navbar-brand">
             <!-- <a href="{{ site.baseurl }}/" class="navbar-item">
@@ -6,9 +6,9 @@
             </a> -->
             <a href="{{ site.baseurl }}/" class="navbar-item navbar-logos">
               {% if page.url == "/" %}
-              <img src="./img/binario-etico-logo-resized.png">
+              <img src="./img/logoBE_navbar.png">
               {% else %}
-              <img src="../img/binario-etico-logo-resized.png">
+              <img src="../img/logoBE_navbar.png">
               {% endif %}
             </a>
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">

@@ -2,6 +2,7 @@
 title: Contatti
 subtitle: test
 layout: page
+hero_image: ../img/contatti_hero.jpeg
 show_sidebar: false
 ---
 ## Binario Etico

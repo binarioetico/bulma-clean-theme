@@ -2,6 +2,7 @@
 title: Formazione
 layout: page
 show_sidebar: false
+hero_image: ../img/formazione/formazione_hero.png
 description: test3
 ---
 I nostri corsi di formazione sono destinati alle imprese che vogliono ristrutturare le proprie infrastrutture IT e/o qualificare il proprio personale verso la Cloud Automation, il Software-Defined IT e l'orchestrazione di Container.  

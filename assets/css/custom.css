@@ -56,3 +56,11 @@ summary {
 .navbar-logos img {
   max-height: 2.6rem;
 }
+
+.navbar-bg {
+  background-color: #363636 !important;
+}
+
+/* a.navbar-link:hover {
+  background-color: #FFFFFF !important;
+} */
