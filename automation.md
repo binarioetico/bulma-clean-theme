@@ -4,6 +4,7 @@ subtitle: Monitoraggio e gestione automatica di servizi containerizzati su infra
 description: Strategie per l’alta affidabilità, recovery automatica dai fault, sistemi di alarming e procedure di disaster recovery.
 layout: soluzioni
 show_sidebar: false
+hero_image: ../img/automation_hero.jpeg
 questions:
   - name: Come posso tenere sotto controllo l’infrastruttura aziendale?
     reply: Monitoring.

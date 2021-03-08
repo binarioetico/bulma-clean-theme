@@ -4,6 +4,7 @@ subtitle: Supporto, Design ed implementazione di reti che soddisfino le esigenze
 description: Supporto alla gestione e all'evoluzione di tali reti in un contesto SDN
 layout: soluzioni
 show_sidebar: false
+hero_image: ../img/networkdesign_hero.jpeg
 questions:
   - name: Come analizzare le esigenze di un'azienda in termini di rete?
     reply: Network requirements.

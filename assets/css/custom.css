@@ -52,7 +52,7 @@ summary {
 .soluzioni-description {
   padding-left: 3%;
 }
-
+/* NavBar Color Customization */
 .navbar-logos img {
   max-height: 2.6rem;
 }
@@ -61,6 +61,20 @@ summary {
   background-color: #363636 !important;
 }
 
-/* a.navbar-link:hover {
-  background-color: #FFFFFF !important;
-} */
+a.navbar-item:hover {
+  background-color: #7a7a7a94 !important;
+}
+
+.navbar-link:hover {
+  background-color: #7a7a7a94 !important;
+}
+
+.navbar-item.is-active {
+  background-color: #7a7a7a94 !important;
+}
+
+.navbar-item.is-primary {
+  background-color: #7a7a7a94 !important;
+}
+
+/* End NavBar Color Customization */

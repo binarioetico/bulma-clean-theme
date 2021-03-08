@@ -1,6 +1,6 @@
 ---
 title: Contatti
-subtitle: test
+<!-- subtitle: test -->
 layout: page
 hero_image: ../img/contatti_hero.jpeg
 show_sidebar: false
