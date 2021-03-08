@@ -23,6 +23,7 @@
 
 .footer-text {
   text-align: left;
+  color: #FFFFFF;
 }
 
 details summary::-webkit-details-marker {
@@ -78,3 +79,10 @@ a.navbar-item:hover {
 }
 
 /* End NavBar Color Customization */
+
+/* Footer Customization */
+
+.footer {
+  background-color: #363636 !important;
+  color: #FFFFFF;
+}

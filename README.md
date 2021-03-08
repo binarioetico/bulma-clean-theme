@@ -3,7 +3,7 @@
 - [ ] Banner landscape per le varie pagine (hero)
 - [ ] Trovare un modo per rendere "omogenei" i size delle img in "Chi Siamo"
 - [X] Logo BE nella nav bar (in alto a sx)
-- [ ] Logo RIOS nella pag sponsor (o altrove ma in vista)
+- [X] Logo RIOS nella pag sponsor (o altrove ma in vista)
 - [ ] Testo per Mission e Vision da mettere in home
 - [ ] creare "Lavora con Noi"
 - [ ] **Scrivere Privacy Policy, Informativa Cookies etc etc..**
@@ -14,8 +14,12 @@
 - [X] Footer: Dati aziendali (P. IVA, Codice Fiscale..)
 - [ ] brevissima descrizione dei prodotti (poche parole)
 - [X] Formazione: aggiungere ISTIO
-- [ ] Sistemare la navbar (vedere in assets/css/custom.css .navbar-bg), sfondo delle voci selezionate
+- [X] Sistemare la navbar (vedere in assets/css/custom.css .navbar-bg), sfondo delle voci selezionate
 - [ ] Logo BE con nuovo testo (Digital Freedom)
+- [ ] Sistemare CSS footer per i link on mouseover (diventano dello stesso colore dello sfondo)
+- [ ] Sistemare CSS navbar con menu (colore sfondo della voce con i menu sbagliata)
+- [ ] Testo per pagine OpenShift a Gitlab
+
 
 # bulma-clean-theme
 

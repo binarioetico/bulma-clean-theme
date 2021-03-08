@@ -1,10 +1,8 @@
 ---
 title: Chi siamo
-subtitle: test
 layout: page
 show_sidebar: false
-description: test2
-hero_image: ../img/docker/containers_splash.png
+hero_image: ../img/chisiamo_hero.jpeg
 show_sidebar: false
 ---
 ## Chi siamo
