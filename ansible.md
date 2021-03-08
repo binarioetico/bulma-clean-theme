@@ -3,7 +3,7 @@ title: Ansible
 subtitle: Automazione e flessibilità per Infrastructure-as-code. La gestione dei tuoi asset IT, human-readable & machine readable.
 description: Test
 layout: product
-hero_image: ../img/ansible_hero.jpg
+hero_image: ../img/ansible_hero.jpeg
 image: ../img/ansible/logo_ansible.png
 show_sidebar: false
 ---

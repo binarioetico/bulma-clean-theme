@@ -4,6 +4,7 @@ subtitle: Soluzioni Infrastructure-as-a-Service (IaaS)
 description: Piattaforme per la gestione di risorse virtuali`:` compute, networking e storage.
 layout: soluzioni
 show_sidebar: false
+hero_image: ../img/privatehybrid_hero.jpeg
 questions:
   - name: Quali sono le soluzioni più efficaci, stabili e flessibili in produzione?
     reply: Assessment delle tecnologie disponibili.

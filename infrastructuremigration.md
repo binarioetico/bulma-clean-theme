@@ -4,6 +4,7 @@ subtitle: Supporto alla migrazione di servizi su nuove infrastrutture.
 description: Supporto al passaggio ad infrastrutture containerizzate.
 layout: soluzioni
 show_sidebar: false
+hero_image: ../img/infrastructuremigration_hero.jpeg
 questions:
   - name: Come scegliere tra VM e container per la migrazione?
     reply: Trade-off tra semplicità della migrazione/efficacia della migrazione
