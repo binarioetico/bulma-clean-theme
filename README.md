@@ -19,7 +19,11 @@
 - [ ] Sistemare CSS footer per i link on mouseover (diventano dello stesso colore dello sfondo)
 - [ ] Sistemare CSS navbar con menu (colore sfondo della voce con i menu sbagliata)
 - [ ] Testo per pagine OpenShift a Gitlab
-
+- [ ] OpenShift: pagina e foto
+- [ ] GitLab: pagina e foto
+- [ ] OpenStack: pagina e foto 
+- [ ] Private/Hybrid e Infrastructure Migration mancano ancora le immagini
+- [ ] Home page: Binario Etico (a capo) Digital Freedom, con a sinistra BE verde-arancione
 
 # bulma-clean-theme
 
