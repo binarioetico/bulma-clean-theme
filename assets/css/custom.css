@@ -52,3 +52,7 @@ summary {
 .soluzioni-description {
   padding-left: 3%;
 }
+
+.navbar-logos img {
+  max-height: 2.6rem;
+}
