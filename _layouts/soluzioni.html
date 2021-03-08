@@ -7,10 +7,11 @@ layout: default
     {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
 {% endif %}
 <div class="content">
+    <h2>Le tue domande, le nostre risposte.</h2>
     {% for item in page.questions %}
       <details>
         <!-- <summary><h2>{{ item.name }}</h2></summary> -->
-        <summary><h2>{{ item.name | markdownify }}</h2></summary>
+        <summary><h3>{{ item.name | markdownify }}</h3></summary>
         {% if item.description %}
           <details>
             <summary><div class="soluzioni-reply">{{ item.reply | markdownify }}</div></summary>

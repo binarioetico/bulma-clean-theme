@@ -2,7 +2,7 @@
 - [ ] Banner landscape per Home (hero) (vedere (unsplash.com)[unsplash.com] o altro)
 - [ ] Banner landscape per le varie pagine (hero)
 - [ ] Trovare un modo per rendere "omogenei" i size delle img in "Chi Siamo"
-- [ ] Logo BE nella nav bar (in alto a sx)
+- [X] Logo BE nella nav bar (in alto a sx)
 - [ ] Logo RIOS nella pag sponsor (o altrove ma in vista)
 - [ ] Testo per Mission e Vision da mettere in home
 - [ ] creare "Lavora con Noi"
@@ -10,10 +10,10 @@
 - [ ] Privacy Policy e Informativa Cookies nel Footer (magari stessa colonna)
 - [X] Footer: far fuori Blog
 - [X] Footer: Seguici Su
-- [ ] Footer: Contatti
-- [X] Footer: Dati aziendali (P. IVA, Codice Fiscale..) 
+- [X] Footer: Contatti
+- [X] Footer: Dati aziendali (P. IVA, Codice Fiscale..)
 - [ ] brevissima descrizione dei prodotti (poche parole)
-- [ ] Formazione: aggiungere ISTIO
+- [X] Formazione: aggiungere ISTIO
 
 # bulma-clean-theme
 
