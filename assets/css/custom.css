@@ -58,7 +58,7 @@ summary {
   max-height: 2.6rem;
 }
 
-.navbar-bg {
+/* .navbar-bg {
   background-color: #363636 !important;
 }
 
@@ -76,11 +76,16 @@ a.navbar-item:hover {
 
 .navbar-item.is-primary {
   background-color: #7a7a7a94 !important;
-}
+} */
+
 
 /* End NavBar Color Customization */
 
 /* Footer Customization */
+
+.products {
+  width: max-width;
+}
 
 .footer {
   background-color: #363636 !important;
