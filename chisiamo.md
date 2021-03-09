@@ -6,7 +6,7 @@ hero_image: ../img/chisiamo_hero.jpeg
 show_sidebar: false
 ---
 ## Chi siamo
-Ingegneri con esperienza ventennale nelle infrastrutture IT e competenze verticali sui sistemi distribuiti cloud-native e sulla cybersecurity. Da sempre cultori di innovazione in ambito “Cloud and IT Automation” con tecnologie FOSS, siamo specializzati sul ciclo di vita del software e la gestione del runtime in ambienti cloud-native resilienti e monitorabili.  
+Ingegneri con esperienza ventennale nelle infrastrutture IT e competenze verticali sui sistemi distribuiti cloud-native e sulla cybersecurity. Sosteniamo ferocemente il **self-hosting**, l'**autonomia digitale** e la **privacy**, prendendo le distanze dal Public Cloud esterofilo. Cultori di innovazione in ambito “Cloud and IT Automation” con tecnologie FOSS, siamo specializzati sul ciclo di vita del software e la gestione del runtime in ambienti cloud-native resilienti e monitorabili.  
 
 ### Cosa facciamo
 * Architetture **cloud-native**, in modalità **Private** o **Hybrid**, attraverso l'adozione di **OpenStack**, **Kubernetes**, **Rancher** e **OpenShift**.
@@ -29,14 +29,17 @@ Binario Etico fa parte della Rete Italiana Open Source (RIOS), una rete di impre
 
 <img src="../img/chisiamo/diag.jpg" width="90">
 
-Collabora stabilmente con [il Dipartimento di Ingegneria Informatica, Automatica e Gestionale (DIAG, ex DIS) dell'Università La Sapienza](http://www.diag.uniroma1.it/), nel quale conduce ricerca e docenze sul Cloud Computing.
+Collabora stabilmente con [il Dipartimento di Ingegneria Informatica, Automatica e Gestionale (DIAG, ex DIS) dell'Università La Sapienza](http://www.diag.uniroma1.it/), nel quale conduce ricerca e docenze sul Cloud Computing self-hosted, aperto e libero.
+
+
+
 
 **I Principali partner di Binario Etico sono:**
 
 |------------------------------------------|-----|
 | <img src="../img/chisiamo/OpenStack_Logo_2016.svg.png" class="partners"> | Membra della OpenStack foundation, Binario Etico è [OpenStack Supporting Organization](https://www.openstack.org/foundation/companies/), partecipa agli [OpenStack Summit](https://www.openstack.org/summit) mondiali e organizza [Open Infrastructure Days in Italia](https://openinfraday.it/).  |
 | <img src="../img/chisiamo/rancher-logo-stacked-color.png" class="partners"> | Distributori unici per l'Italia |
-| <img src="../img/chisiamo/OpenShift-LogoType.svg" class="partners"> | Partner IBM, distributori di OpenShift |
+| <img src="../img/chisiamo/OpenShift-LogoType.svg" class="partners"> | Distributori di OpenShift |
 | <img src="../img/chisiamo/gitlab.png" class="partners"> | Distributori di GitLab per l'Italia |
 | <img src="../img/chisiamo/elastx.jpg" class="partners"> | [Elastx](https://elastx.se/en), Automated and sustainable IT operations. Provider IaaS OpenStack svedese. 3 DC connessi a 100Gbps, dischi SSD, fino a 15.000 IOPS, availability SLA 99,95%, DDoS mitigation, alimentazione a fonti rinnovabili. |
 | <img src="../img/chisiamo/re-ware.png" class="partners"> | [Re-ware](https://www.reware.it/), spin-off di Binario Etico specializzata nel recupero e nel riutilizzo di computer vecchi o dismessi tramite l'impiego di Software Libero. |
