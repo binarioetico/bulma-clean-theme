@@ -24,6 +24,7 @@
 - [ ] OpenStack: pagina e foto 
 - [ ] Private/Hybrid e Infrastructure Migration mancano ancora le immagini
 - [ ] Home page: Binario Etico (a capo) Digital Freedom, con a sinistra BE verde-arancione
+- [ ] Home page: i prodotti sono 6, non 3. Barra grigio chiaro in home va raddoppiata, attualmente reca seco 3 prodotti
 
 # bulma-clean-theme
 
