@@ -6,10 +6,10 @@ hero_image: ../img/chisiamo_hero.jpeg
 show_sidebar: false
 ---
 ## Chi siamo
-Ingegneri con esperienza ventennale nelle infrastrutture IT e competenze verticali sui sistemi distribuiti cloud-native e sulla cybersecurity. Sosteniamo ferocemente il **self-hosting**, l'**autonomia digitale** e la **privacy**, prendendo le distanze dal Public Cloud esterofilo. Cultori di innovazione in ambito “Cloud and IT Automation” con tecnologie FOSS, siamo specializzati sul ciclo di vita del software e la gestione del runtime in ambienti cloud-native resilienti e monitorabili.  
+Ingegneri con esperienza ventennale nelle infrastrutture IT e competenze verticali sui sistemi distribuiti **cloud-native** e sulla **cybersecurity**. Sosteniamo ferocemente il **self-hosting**, l'**autonomia digitale** e la **privacy**, prendendo le distanze dal Public Cloud esterofilo. Cultori di innovazione in ambito “Cloud and IT Automation” con tecnologie **FOSS**, siamo specializzati sul ciclo di vita del software e la gestione del runtime in ambienti cloud-native resilienti e monitorabili.  
 
 ### Cosa facciamo
-* Architetture **cloud-native**, in modalità **Private** o **Hybrid**, attraverso l'adozione di **OpenStack**, **Kubernetes**, **Rancher** e **OpenShift**.
+* Architetture **cloud-native**, in modalità **Private** o **Hybrid**, attraverso l'adozione di **OpenStack**, **Kubernetes**, **Istio**, **Rancher** e **OpenShift**.
 * Aggiornamento infrastrutturale, migrazioni e automazione con **Ansible**.
 * **Penetration Testing** e **Vulnerability e Security Assessment** sia su infrastrutture tradizionali che cloud.
 * Forniamo sistemi e competenze per la gestione del **ciclo di vita del software** in modalità **CI/CD** con **GitLab**, il monitoraggio del runtime e la gestione della sicurezza secondo il paradigma **DevSecOps**, integrando **Anchore** e **SysDig** nelle pipeline di sviluppo e deployment.
