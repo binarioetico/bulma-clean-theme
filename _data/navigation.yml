@@ -12,7 +12,7 @@
     - name: GitLab
       link: /gitlab/
     - name: OpenStack
-      link: /OpenStack/
+      link: /openstack/
     - name: Ansible
       link: /ansible/
 - name: Soluzioni
