@@ -1,11 +1,11 @@
 # TODO
-- [ ] Banner landscape per Home (hero) (vedere (unsplash.com)[unsplash.com] o altro)
-- [ ] Banner landscape per le varie pagine (hero)
+- [X] Banner landscape per Home (hero) (vedere (unsplash.com)[unsplash.com] o altro)
+- [X] Banner landscape per le varie pagine (hero)
 - [ ] Trovare un modo per rendere "omogenei" i size delle img in "Chi Siamo"
 - [X] Logo BE nella nav bar (in alto a sx)
 - [X] Logo RIOS nella pag sponsor (o altrove ma in vista)
 - [ ] Testo per Mission e Vision da mettere in home
-- [ ] creare "Lavora con Noi"
+- [X] creare "Lavora con Noi"
 - [ ] **Scrivere Privacy Policy, Informativa Cookies etc etc..**
 - [ ] Privacy Policy e Informativa Cookies nel Footer (magari stessa colonna)
 - [X] Footer: far fuori Blog
@@ -17,14 +17,15 @@
 - [X] Sistemare la navbar (vedere in assets/css/custom.css .navbar-bg), sfondo delle voci selezionate
 - [ ] Logo BE con nuovo testo (Digital Freedom)
 - [ ] Sistemare CSS footer per i link on mouseover (diventano dello stesso colore dello sfondo)
-- [ ] Sistemare CSS navbar con menu (colore sfondo della voce con i menu sbagliata)
+- [X] Sistemare CSS navbar con menu (colore sfondo della voce con i menu sbagliata)
 - [ ] Testo per pagine OpenShift a Gitlab
-- [ ] OpenShift: pagina e foto
-- [ ] GitLab: pagina e foto
-- [ ] OpenStack: pagina e foto 
-- [ ] Private/Hybrid e Infrastructure Migration mancano ancora le immagini
+- [X] OpenShift: pagina e foto
+- [X] GitLab: pagina e foto
+- [X] OpenStack: pagina e foto 
+- [X] Private/Hybrid e Infrastructure Migration mancano ancora le immagini
 - [ ] Home page: Binario Etico (a capo) Digital Freedom, con a sinistra BE verde-arancione
 - [ ] Home page: i prodotti sono 6, non 3. Barra grigio chiaro in home va raddoppiata, attualmente reca seco 3 prodotti
+- [ ] Nel riversare il link su Mattermost o su altri sistemi di instant messanging, c'è la descrizione del bulma e non di binario etico
 
 # bulma-clean-theme
 
