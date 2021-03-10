@@ -1,6 +1,6 @@
 ---
-title: Network Design & Management
-subtitle: Supporto, Design ed implementazione di reti che soddisfino le esigenze individuali di realtà aziendali.
+title: Network Design & Management e SDN
+subtitle: Implementazione di reti che soddisfino esigenze particolari e/o software-defined.
 description: Supporto alla gestione e all'evoluzione di tali reti in un contesto SDN
 layout: soluzioni
 show_sidebar: false
