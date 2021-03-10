@@ -1,6 +1,8 @@
 {% if page.homepage %%}
 <!-- <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background-image: linear-gradient(141deg, #1f1a1b 0%, #363636 71%, #46413f 100%), url('{{ page.hero_image }}') no-repeat center center;" {% endif %}> -->
-<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background-color: rgba(54, 54, 54, 1) !important; background: linear-gradient(141deg,  rgba(31, 26, 27, 0), rgba(54, 54, 54, 0.71), rgba(70, 65, 63, 1)), url('{{ page.hero_image }}') no-repeat center center;  background-size: cover;" {% endif %}>
+<!-- <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background-color: rgba(54, 54, 54, 1) !important; background: linear-gradient(141deg,  rgba(31, 26, 27, 0), rgba(54, 54, 54, 0.71), rgba(70, 65, 63, 1)), url('{{ page.hero_image }}') no-repeat center center;  background-size: cover;" {% endif %}> -->
+<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background-color: rgba(54, 54, 54, 0.7) !important; background: linear-gradient(141deg,  rgba(31, 26, 27, 0.1), rgba(54, 54, 54, 0.15), rgba(70, 65, 63, 0.4)), url('{{ page.hero_image }}') no-repeat center center;  background-size: cover;" {% endif %}>
+
 {% else %}
 <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_image }}') no-repeat center center; background-size: cover;" {% endif %}>
 {% endif %}
