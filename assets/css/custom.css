@@ -14,11 +14,16 @@
 }
 
 .partners {
-  width: 200px;
+  /* width: 200px; */
+  height: 75px;
+  /* width: max-width !important; */
+  object-fit: contain;
 }
 
 .corsi {
-  width: 100px;
+  /* width: 100px; */
+  height: 75px;
+  object-fit: contain;
 }
 
 .footer-text {
