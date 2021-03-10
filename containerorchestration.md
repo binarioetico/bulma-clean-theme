@@ -1,7 +1,7 @@
 ---
 title: Container Orchestration
 subtitle: Soluzioni Platform-as-a-Service (PaaS)
-description: Automazione e deployment automatico dei servizi aziendali
+description: Automazione e deployment automatico dei servizi aziendali.
 layout: soluzioni
 show_sidebar: false
 hero_image: ../img/containerorchestration_hero.png

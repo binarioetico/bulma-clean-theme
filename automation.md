@@ -1,6 +1,6 @@
 ---
 title: Automation, monitoring and alarming
-subtitle: Monitoraggio e gestione automatica di servizi containerizzati su infrastrutture cloud.
+subtitle: Monitoraggio e gestione automatica di servizi su infrastrutture Cloud.
 description: Strategie per l’alta affidabilità, recovery automatica dai fault, sistemi di alarming e procedure di disaster recovery.
 layout: soluzioni
 show_sidebar: false
