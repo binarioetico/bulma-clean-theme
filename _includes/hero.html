@@ -1,11 +1,13 @@
-{% if page.homepage %%}
-<!-- <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background-image: linear-gradient(141deg, #1f1a1b 0%, #363636 71%, #46413f 100%), url('{{ page.hero_image }}') no-repeat center center;" {% endif %}> -->
-<!-- <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background-color: rgba(54, 54, 54, 1) !important; background: linear-gradient(141deg,  rgba(31, 26, 27, 0), rgba(54, 54, 54, 0.71), rgba(70, 65, 63, 1)), url('{{ page.hero_image }}') no-repeat center center;  background-size: cover;" {% endif %}> -->
-<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background-color: rgba(54, 54, 54, 0.7) !important; background: linear-gradient(141deg,  rgba(31, 26, 27, 0.1), rgba(54, 54, 54, 0.15), rgba(70, 65, 63, 0.4)), url('{{ page.hero_image }}') no-repeat center center;  background-size: cover;" {% endif %}>
-
+<!-- Init Customization homepage (index.md) and chisiamo (chisiamo.md)-->
+{% if page.homepage %}
+<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_logo1 }}') no-repeat 50% 50%, url('{{ page.hero_image }}') no-repeat center center; background-size: 400px auto, cover;" {% endif %}>
+{% else if page.chisiamo %}
+<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_logo1 }}') no-repeat 60% 50%, url('{{ page.hero_image }}') no-repeat center center; background-size: 800px auto, cover;" {% endif %}>
 {% else %}
+<!-- Original Code (All other pages) -->
 <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_image }}') no-repeat center center; background-size: cover;" {% endif %}>
 {% endif %}
+<!-- End customization -->
     <div class="hero-body {% if page.hero_darken %} hero-darken {% endif %}">
         <div class="container">
             <h1 class="title is-2">{{ page.title }}</h1>
@@ -14,5 +16,6 @@
                 <a href="{{ page.hero_link | relative_url }}" class="button is-info is-large">{{ page.hero_link_text }}</a>
             {% endif %}
         </div>
+
     </div>
 </section>

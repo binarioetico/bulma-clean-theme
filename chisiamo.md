@@ -2,7 +2,10 @@
 title: Chi siamo
 layout: page
 show_sidebar: false
-hero_image: ../img/chisiamo_hero.jpeg
+<!-- hero_image: ../img/chisiamo_hero.jpeg -->
+hero_image: ../img/chisiamo/hero_bg1.jpg
+hero_logo1: ../img/chisiamo/logo_be_chisiamo3.png
+chisiamo: true
 show_sidebar: false
 ---
 ## Chi siamo
