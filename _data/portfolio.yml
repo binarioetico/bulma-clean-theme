@@ -1,5 +1,5 @@
 intro: |-
-  Portfolio Binario Etico
+ <h1>Anno 2021</h1>
 
 items:
   - title: Cliente Università di Torino
@@ -35,6 +35,9 @@ items:
 
       __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
     image: /img/portfolio/aubay.jpg
+
+___
+
   - title: Test
     description: |-
       __Tipologia:__ Formazione
