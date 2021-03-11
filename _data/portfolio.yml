@@ -1,8 +1,8 @@
 intro: |-
- <h1>Anno 2021</h1>
+ ## Anno 2021
 
 items:
-  - title: Cliente Università di Torino
+  - title: Università di Torino
     description: |-
       __Tipologia:__ Consulenza e integrazione
 
@@ -11,23 +11,7 @@ items:
       __Descrizione:__ Imtegrazione storage Unity nelle componenti
       Cinder e Manila della cloud OpenStack dell'Università di Torino
     image: /img/portfolio/uni_torino.png
-  - title: Cliente Aubay
-    description: |-
-      __Tipologia:__ Formazione
-
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
-    description: |-
-      __Tipologia:__ Formazione
-
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
+  - title: Aubay
     description: |-
       __Tipologia:__ Formazione
 
@@ -36,55 +20,73 @@ items:
       __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
     image: /img/portfolio/aubay.jpg
 
+  - title: Enel
+    description: |-
+      __Tipologia:__ Consulenza e sviluppo
 
-  - title: Test
+      __Tecnologia:__ Cybersecurity, Kubernetes, balenaEngine, Python, Suricata
+
+      __Descrizione:_Action plan and support to implementation for making Elemize Platform compliant to Enel cybersecurity guidelines. Development of new components of the Enel IoT management software based on Kubernetes and balenaEngine. Introduction of software signature checks for IoT devices and traffic monitoring for intrusion detection._
+    image: /img/portfolio/aubay.jpg
+  - title: ACI Informatica
     description: |-
       __Tipologia:__ Formazione
 
-      __Tecnologia:__ Kubernetes, OpenShift
+      __Tecnologia:__ Istio, Linux, Wireless security
 
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
+      __Descrizione:__ Corsi di formazione per il personale IT su Kubernetes, Rancher, OpenShift, Linux, Cybersecurity: "Service Mesh with Istio", "Linux Administration", "RedHat System Administration", "TSRW - Tecnologia e sicurezza delle reti Wireless"
     image: /img/portfolio/aubay.jpg
-  - title: Test
+
+
+  - title: Omissis
+    description: |-
+      __Tipologia:__ Consulenza
+
+      __Tecnologia:__ Cybersecurity, OpenStack, Kubernetes
+
+      __Descrizione:__  Architettura IT secure-by-design per l'elaborazione massiva di dati basata su strato IaaS OpenStack e orchestrazione di container con OpenShift.
+    image: /img/portfolio/aubay.jpg
+  - title: SFC - Sistemi Formativi Confindustria
+    description: |-
+      __Tipologia:__ Sviluppo, deployment e supporto
+
+      __Tecnologia:__ Booked Scheduler, Docker, MariaDB, Rancher
+
+      __Descrizione:__ Progettazione e realizzazione di un sistema gestionale da utilizzare per l'organizzazione di corsi di formazione (matching tra domanda e offerta di disponibilità di calendario) nell'ambito del progetto Distico. Deployment e messa in produzione del sistema in container su piattaforma Rancher.
+    image: /img/portfolio/aubay.jpg
+  - title: Expert System
     description: |-
       __Tipologia:__ Formazione
 
-      __Tecnologia:__ Kubernetes, OpenShift
+      __Tecnologia:__ Cybersecurity, SAST, DAST, Docker, Kubernetes, DevSecOps, Microservices
 
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
+      __Descrizione:__ Corsi di formazione per il personale IT su DevSecOps e in particolare su Secure Software Development Life Cycle, strumenti per l'analisi statica e dinamica del software, sicurenzza nei nuovi paradigmi architetturali basti su Docker, Kubernetes e Microservices.
     image: /img/portfolio/aubay.jpg
-  - title: Test
+  - title: Agenzia delle Entrate e della Riscossione
+    description: |-
+      __Tipologia:__ Consulenza e formazione
+
+      __Tecnologia:__ Ansible, AWX
+
+      __Descrizione:__ Progettazione e Training on the Job di strati di automazione basati su Ansible e AWX per la gestione di servizi interni e il provisioning di risorse infrastrutturali da parte del personale IT di Napoli e Torino.
+    image: /img/portfolio/aubay.jpg
+  - title: Telespazio
+    description: |-
+      __Tipologia:__  Consulenza e supporto
+
+      __Tecnologia:__  OpenStack, qemu
+
+      __Descrizione:__ Migrating workloads from VMWare to OpenStack.
+    image: /img/portfolio/aubay.jpg
+  - title: Poste Italiane
     description: |-
       __Tipologia:__ Formazione
 
-      __Tecnologia:__ Kubernetes, OpenShift
+      __Tecnologia:__ Architetture IT, Kubernetes, OpenShift, Docker, Ansible
 
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
+      __Descrizione:__ Corsi di formazione per il personale IT su architetture software, infrastrutture IT, CISCO, sicurezza, cloud-native application, microservices, DevOps, Container, Kubernetes, OpenShift, Ansible...
     image: /img/portfolio/aubay.jpg
-  - title: Test
-    description: |-
-      __Tipologia:__ Formazione
 
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
-    description: |-
-      __Tipologia:__ Formazione
-
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
-    description: |-
-      __Tipologia:__ Formazione
-
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
   - title: Test
     description: |-
       __Tipologia:__ Formazione
