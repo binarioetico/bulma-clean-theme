@@ -1,19 +1,19 @@
 style: is-light
 items:
   - title: Kubernetes
-    subtitle: L'orchestra sinfonica delle risorse IT
+    subtitle: L'orchestra sinfonica delle risorse IT.
     icon: ./img/home_callouts_icons/kubernetes.svg
     link: /kubernetes/
   - title: Rancher
-    subtitle: Kubernetes facile
+    subtitle: Kubernetes facile.
     icon: ./img/home_callouts_icons/rancher.svg
     link: /rancher/
   - title: OpenShift
-    subtitle: Piattaforma di Open Hybrid Cloud
+    subtitle: Piattaforma di Open Hybrid Cloud.
     icon: ./img/home_callouts_icons/redhatopenshift.svg
     link: /openshift/
   - title: Gitlab
-    subtitle: DevOps, in pratica
+    subtitle: DevOps, in pratica.
     icon: ./img/home_callouts_icons/gitlab.svg
     link: /gitlab/
   - title: Ansible
@@ -21,6 +21,6 @@ items:
     icon: ./img/home_callouts_icons/ansible.svg
     link: /ansible/
   - title: OpenStack
-    subtitle: Il sistema operativo delle Cloud
+    subtitle: Il sistema operativo delle Cloud.
     icon: ./img/home_callouts_icons/openstack.svg
     link: /openstack/

@@ -7,5 +7,7 @@ show_sidebar: false
 ---
 ## Binario Etico
 <i class="fas fa-paper-plane"> </i> info(AT)binarioetico(dot)it  
+<br>
 <i class="fas fa-map-marker-alt"> </i> Via Flaminia 48, 00196 Roma  
+<br>
 <i class="fas fa-phone-alt"> </i> Tel. +39 340 4830930
