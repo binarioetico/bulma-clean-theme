@@ -3,18 +3,24 @@ items:
   - title: Kubernetes
     subtitle: Bla Bla
     icon: ./img/home_callouts_icons/kubernetes.svg
+    link: /kubernetes/
   - title: Rancher
     subtitle: Including sidebar, menubar, tabs and callouts
     icon: ./img/home_callouts_icons/rancher.svg
+    link: /rancher/
   - title: OpenShift
     subtitle: Bla bla bla
     icon: ./img/home_callouts_icons/redhatopenshift.svg
+    link: /openshift/
   - title: Gitlab
     subtitle: Bla Bla Blaaaa
     icon: ./img/home_callouts_icons/gitlab.svg
+    link: /gitlab/
   - title: Ansible
     subtitle: Bla bla bla bla git bla
     icon: ./img/home_callouts_icons/ansible.svg
+    link: /ansible/
   - title: OpenStack
     subtitle: bla bla bla kernel panic bla
     icon: ./img/home_callouts_icons/openstack.svg
+    link: /openstack/
