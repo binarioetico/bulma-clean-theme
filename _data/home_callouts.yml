@@ -1,7 +1,7 @@
 style: is-light
 items:
   - title: Kubernetes
-    subtitle: Be cloud-native by design
+    subtitle: For cloud-native people only
     icon: ./img/home_callouts_icons/kubernetes.svg
     link: /kubernetes/
   - title: Rancher
