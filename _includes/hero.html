@@ -1,8 +1,8 @@
 <!-- Init Customization homepage (index.md) and chisiamo (chisiamo.md)-->
 {% if page.homepage %}
-<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_logo1 }}') no-repeat 50% 50%, url('{{ page.hero_image }}') no-repeat center center; background-size: 400px auto, cover;" {% endif %}>
+<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_logo1 }}') no-repeat 50% 50%, url('{{ page.hero_image }}') no-repeat center center; background-size: auto 70%, cover;" {% endif %}>
 {% else if page.chisiamo %}
-<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_logo1 }}') no-repeat 60% 50%, url('{{ page.hero_image }}') no-repeat center center; background-size: 800px auto, cover;" {% endif %}>
+<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_logo1 }}') no-repeat 60% 50%, url('{{ page.hero_image }}') no-repeat center center; background-size: auto 60%, cover;" {% endif %}>
 {% else %}
 <!-- Original Code (All other pages) -->
 <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_image }}') no-repeat center center; background-size: cover;" {% endif %}>

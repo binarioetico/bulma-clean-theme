@@ -1,13 +1,20 @@
 style: is-light
 items:
+  - title: Kubernetes
+    subtitle: Bla Bla
+    icon: ./img/home_callouts_icons/kubernetes.svg
   - title: Rancher
     subtitle: Including sidebar, menubar, tabs and callouts
-    icon: fa-apple
-    icon_brand: true
-  - title: OpenStack
-    subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
+    icon: ./img/home_callouts_icons/rancher.svg
   - title: OpenShift
-    subtitle: Quick and easy to get started
-    icon: fa-github
-    icon_brand: true
+    subtitle: Bla bla bla
+    icon: ./img/home_callouts_icons/redhatopenshift.svg
+  - title: Gitlab
+    subtitle: Bla Bla Blaaaa
+    icon: ./img/home_callouts_icons/gitlab.svg
+  - title: Ansible
+    subtitle: Bla bla bla bla git bla
+    icon: ./img/home_callouts_icons/ansible.svg
+  - title: OpenStack
+    subtitle: bla bla bla kernel panic bla
+    icon: ./img/home_callouts_icons/openstack.svg

@@ -114,3 +114,11 @@ a.navbar-item:hover {
   margin: 5px 20px;
   padding: 5px;
 }
+
+.callouticons {
+  fill: red;
+}
+
+.callouticons:hover {
+  fill: orange;
+}
