@@ -6,14 +6,14 @@
 #   link: /products/
 - name: Binario Etico
   description: >
-    BE SRLs - Società Benefit
+    BE SRL - Società Benefit
 
     Via Flaminia, 48 - 00196 Roma
 
     P.I/C.F.: 14228701000
 - name: Privacy Policy
   link: /privacy-policy/
-- name: Contatti
+- name: Contattaci
   link: /contatti/
 - name: Seguici su
   social:
