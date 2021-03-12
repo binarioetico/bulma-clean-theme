@@ -9,7 +9,7 @@ homepage: true
 show_sidebar: false
 ---
 # Vision
-Sogniamo un mondo dove digitale significa autonomia, self-hosting, open, privacy.
+Un mondo dove digitale significa self-hosting, software libero, privacy.
 
 # Mission
-Innovare, diffondere cultura dell'open, rendere affidabili e sicuri i servizi, verso una piena automazione, verso una piena autonomia digitale.  
+Innovare, diffondere la cultura dell'open, rendere affidabili i servizi IT, verso una piena automazione, verso una piena autonomia digitale.  
