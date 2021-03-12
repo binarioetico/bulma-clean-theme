@@ -60,7 +60,7 @@ summary {
 }
 /* NavBar Color Customization */
 .navbar-logos img {
-  max-height: 2.6rem;
+  max-height: 2.6rem !important;
 }
 
 /* .navbar-bg {
@@ -95,4 +95,30 @@ a.navbar-item:hover {
 .footer {
   background-color: #363636 !important;
   color: #FFFFFF;
+}
+
+.herologo {
+  display: inline-block !important;
+  /* margin-right: 1000px; */
+  /* margin-left: 200px; */
+  right: 0;
+  position: absolute;
+}
+
+.herocontainer {
+  text-align: right;
+}
+
+.heroimages {
+  display: inline-block !important;
+  margin: 5px 20px;
+  padding: 5px;
+}
+
+.callouticons {
+  fill: red;
+}
+
+.callouticons:hover {
+  fill: orange;
 }

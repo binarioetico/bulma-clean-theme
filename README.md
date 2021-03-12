@@ -18,10 +18,10 @@
 - [ ] Logo BE con nuovo testo (Digital Freedom)
 - [ ] Sistemare CSS footer per i link on mouseover (diventano dello stesso colore dello sfondo)
 - [X] Sistemare CSS navbar con menu (colore sfondo della voce con i menu sbagliata)
-- [ ] Testo per pagine OpenShift a Gitlab
+- [ ] **Testo per pagine OpenShift a Gitlab**
 - [X] OpenShift: pagina e foto
 - [X] GitLab: pagina e foto
-- [X] OpenStack: pagina e foto 
+- [X] OpenStack: pagina e foto
 - [X] Private/Hybrid e Infrastructure Migration mancano ancora le immagini
 - [X] Home page: Binario Etico (a capo) Digital Freedom, con a sinistra BE verde-arancione
 - [ ] Home page: i prodotti sono 6, non 3. Barra grigio chiaro in home va raddoppiata, attualmente reca seco 3 prodotti
