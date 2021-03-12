@@ -31,6 +31,7 @@
 - [ ] Inserire descrizione e subtitle per le voci in home (callouts) file: home_callouts.yml
 - [ ] sistemare portfolio (sopratutto per mobile.....)
 - [ ] sistemare i vari description (quelli legati a graph api...) se no la descrizione sarà sempre test...
+- [ ] Aggiungere License CC-BY-SA nel footer, a sinistra di privacy policy
 
 # bulma-clean-theme
 
