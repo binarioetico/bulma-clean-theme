@@ -8,10 +8,8 @@ hero_logo1: ./img/homepage/logo_be_boxed.png
 homepage: true
 show_sidebar: false
 ---
-<center>
 # Vision
 Un mondo dove digitale significa self-hosting, software libero, privacy.
 
 # Mission
 Innovare, diffondere la cultura dell'open, rendere affidabili i servizi IT, verso una piena automazione, verso una piena autonomia digitale.  
-</center>
