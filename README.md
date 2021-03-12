@@ -33,8 +33,8 @@
 - [ ] sistemare i vari description (quelli legati a graph api...) se no la descrizione sarà sempre test...
 - [ ] Aggiungere License CC-BY-SA nel footer, a sinistra di privacy policy
 - [ ] Scrivere pagina dei credits 
-- [ ] Attualmente se clicchi su Prodotti va in home: prevedere una pagina, invace. Con la lista di prodotti cliccabili.
-- [ ] Attualmente se clicchi su Soluzioni va in home: prevedere una pagina, invace. Con la lista di soluzioni cliccabili.
+- [ ] Attualmente se clicchi su Prodotti va in home: rendere non cliccabile
+- [ ] Attualmente se clicchi su Soluzioni va in home: rendere non cliccabile
 
 # bulma-clean-theme
 
