@@ -1,17 +1,22 @@
 {% if page.callouts %}
     {% assign callouts=site.data.[page.callouts] %}
     <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}">
-        <div class="hero-body">
+        <div class="hero-body custom-size-home-callout">
             <div class="container">
                 <div class="columns is-multiline is-centered">
                     {% for callout in callouts.items %}
                         <div class="column is-4 has-text-centered">
                             {% if callout.icon %}
+                              {% if callout.link %}
+                                <a href="{{ site.baseurl }}/{{ callout.link }}">
+                              {% endif %}
                             <div class="icon callout-icon">
-                                <img src="{{ callout.icon }}" class="callouticons">
+
+                                <img src="{{ callout.icon }}">
 
                             </div>
                             {% endif %}
+
                             <p class="title is-5">{{ callout.title }}</p>
                             <p class="subtitle is-5">{{ callout.subtitle }}</p>
 
@@ -20,7 +25,9 @@
                                 <p>{{ callout.description | newline_to_br }}</p>
                             </div>
                             {% endif %}
-
+                              {% if callout.link %}
+                                </a>
+                              {% endif %}
                             {% if callout.call_to_action_name %}
                             <a href="{{ callout.call_to_action_link | relative_url }}" class="button is-primary">
                                 {{ callout.call_to_action_name }}

@@ -3,18 +3,24 @@ items:
   - title: Kubernetes
     subtitle: Be cloud-native by design
     icon: ./img/home_callouts_icons/kubernetes.svg
+    link: /kubernetes/
   - title: Rancher
     subtitle: Kubernetes made easy
     icon: ./img/home_callouts_icons/rancher.svg
+    link: /rancher/
   - title: OpenShift
     subtitle: Open Hybrid cloud platform
     icon: ./img/home_callouts_icons/redhatopenshift.svg
+    link: /openshift/
   - title: Gitlab
     subtitle: DevOps, in pratica
     icon: ./img/home_callouts_icons/gitlab.svg
+    link: /gitlab/
   - title: Ansible
     subtitle: Automazione, automazione, automazione!
     icon: ./img/home_callouts_icons/ansible.svg
+    link: /ansible/
   - title: OpenStack
     subtitle: Il sistema operativo delle Cloud
     icon: ./img/home_callouts_icons/openstack.svg
+    link: /openstack/

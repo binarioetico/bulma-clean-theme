@@ -4,7 +4,7 @@
 - [ ] Trovare un modo per rendere "omogenei" i size delle img in "Chi Siamo"
 - [X] Logo BE nella nav bar (in alto a sx)
 - [X] Logo RIOS nella pag sponsor (o altrove ma in vista)
-- [ ] Testo per Mission e Vision da mettere in home
+- [ ] **Testo per Mission e Vision da mettere in home** (per il momento, beccatevi Dante! :P)
 - [X] creare "Lavora con Noi"
 - [ ] **Scrivere Privacy Policy, Informativa Cookies etc etc..**
 - [ ] Privacy Policy e Informativa Cookies nel Footer (magari stessa colonna)
@@ -15,7 +15,7 @@
 - [ ] brevissima descrizione dei prodotti (poche parole)
 - [X] Formazione: aggiungere ISTIO
 - [X] Sistemare la navbar (vedere in assets/css/custom.css .navbar-bg), sfondo delle voci selezionate
-- [ ] Logo BE con nuovo testo (Digital Freedom)
+- [X] Logo BE con nuovo testo (Digital Freedom)
 - [ ] Sistemare CSS footer per i link on mouseover (diventano dello stesso colore dello sfondo)
 - [X] Sistemare CSS navbar con menu (colore sfondo della voce con i menu sbagliata)
 - [ ] **Testo per pagine OpenShift a Gitlab**
@@ -23,11 +23,14 @@
 - [X] GitLab: pagina e foto
 - [X] OpenStack: pagina e foto
 - [X] Private/Hybrid e Infrastructure Migration mancano ancora le immagini
-- [X] Home page: Binario Etico (a capo) Digital Freedom, con a sinistra BE verde-arancione
-- [ ] Home page: i prodotti sono 6, non 3. Barra grigio chiaro in home va raddoppiata, attualmente reca seco 3 prodotti
+- [X] ~~Home page: Binario Etico (a capo) Digital Freedom, con a sinistra BE verde-arancione~~ Home Page: logo BE nello sfondo
+- [X] Home page: i prodotti sono 6, non 3. Barra grigio chiaro in home va raddoppiata, attualmente reca seco 3 prodotti
 - [ ] Nel riversare il link su Mattermost o su altri sistemi di instant messanging, c'è la descrizione del bulma e non di binario etico
-- [ ] L'immagine del Blog dovrebbe mostrare il bancone del locale
+- [X] ~~L'immagine del Blog dovrebbe mostrare il bancone del locale~~ IMG blog ok (cambiata con altro)
 - [ ] Centrare i loghi tra loro nei "partner di BE" in chisiamo
+- [ ] Inserire descrizione e subtitle per le voci in home (callouts) file: home_callouts.yml
+- [ ] sistemare portfolio (sopratutto per mobile.....)
+- [ ] sistemare i vari description (quelli legati a graph api...) se no la descrizione sarà sempre test...
 - [ ] Aggiungere License CC-BY-SA nel footer, a sinistra di privacy policy
 
 # bulma-clean-theme

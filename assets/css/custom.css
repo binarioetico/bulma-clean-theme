@@ -115,10 +115,7 @@ a.navbar-item:hover {
   padding: 5px;
 }
 
-.callouticons {
-  fill: red;
-}
-
-.callouticons:hover {
-  fill: orange;
+.custom-size-home-callout {
+  padding-top: 4rem !important;
+  padding-bottom: 4rem !important;
 }
