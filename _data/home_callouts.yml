@@ -1,15 +1,15 @@
 style: is-light
 items:
   - title: Kubernetes
-    subtitle: For cloud-native people only
+    subtitle: L'orchestra sinfonica delle risorse IT
     icon: ./img/home_callouts_icons/kubernetes.svg
     link: /kubernetes/
   - title: Rancher
-    subtitle: Kubernetes made easy
+    subtitle: Kubernetes facile
     icon: ./img/home_callouts_icons/rancher.svg
     link: /rancher/
   - title: OpenShift
-    subtitle: Open Hybrid cloud platform
+    subtitle: Piattaforma di Open Hybrid Cloud
     icon: ./img/home_callouts_icons/redhatopenshift.svg
     link: /openshift/
   - title: Gitlab
