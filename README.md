@@ -1,10 +1,10 @@
 # TODO
 - [X] Banner landscape per Home (hero) (vedere (unsplash.com)[unsplash.com] o altro)
 - [X] Banner landscape per le varie pagine (hero)
-- [ ] Trovare un modo per rendere "omogenei" i size delle img in "Chi Siamo"
+- [X] Trovare un modo per rendere "omogenei" i size delle img in "Chi Siamo"
 - [X] Logo BE nella nav bar (in alto a sx)
 - [X] Logo RIOS nella pag sponsor (o altrove ma in vista)
-- [ ] **Testo per Mission e Vision da mettere in home** (per il momento, beccatevi Dante! :P)
+- [X] **Testo per Mission e Vision da mettere in home** (per il momento, beccatevi Dante! :P)
 - [X] creare "Lavora con Noi"
 - [ ] **Scrivere Privacy Policy, Informativa Cookies etc etc..**
 - [ ] Privacy Policy e Informativa Cookies nel Footer (magari stessa colonna)
@@ -12,7 +12,7 @@
 - [X] Footer: Seguici Su
 - [X] Footer: Contatti
 - [X] Footer: Dati aziendali (P. IVA, Codice Fiscale..)
-- [ ] brevissima descrizione dei prodotti (poche parole)
+- [X] brevissima descrizione dei prodotti (poche parole)
 - [X] Formazione: aggiungere ISTIO
 - [X] Sistemare la navbar (vedere in assets/css/custom.css .navbar-bg), sfondo delle voci selezionate
 - [X] Logo BE con nuovo testo (Digital Freedom)
@@ -28,7 +28,7 @@
 - [ ] Nel riversare il link su Mattermost o su altri sistemi di instant messanging, c'è la descrizione del bulma e non di binario etico
 - [X] ~~L'immagine del Blog dovrebbe mostrare il bancone del locale~~ IMG blog ok (cambiata con altro)
 - [ ] Centrare i loghi tra loro nei "partner di BE" in chisiamo
-- [ ] Inserire descrizione e subtitle per le voci in home (callouts) file: home_callouts.yml
+- [X] Inserire descrizione e subtitle per le voci in home (callouts) file: home_callouts.yml
 - [ ] sistemare portfolio (sopratutto per mobile.....)
 - [ ] sistemare i vari description (quelli legati a graph api...) se no la descrizione sarà sempre test...
 - [ ] Aggiungere License CC-BY-SA nel footer, a sinistra di privacy policy
