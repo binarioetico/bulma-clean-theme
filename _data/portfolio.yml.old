@@ -1,8 +1,7 @@
-- intro: |-
-    # Una Breve introduzione (facoltativa..)
-- year: |-
-    ## A.D. 2021
-  customers:
+intro: |-
+ ## Anno 2021
+
+items:
   - title: Università di Torino
     description: |-
       __Tipologia:__ Consulenza e integrazione
@@ -18,8 +17,7 @@
 
       __Tecnologia:__ Kubernetes, OpenShift
 
-      __Descrizione:__ Corsi di formazione per il personale IT su
-      applicazioni cloud-native con container, Kubernetes e OpenShift.
+      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
     image: /img/portfolio/aubay.jpg
 
   - title: Enel
@@ -28,10 +26,7 @@
 
       __Tecnologia:__ Cybersecurity, Kubernetes, balenaEngine, Python, Suricata
 
-      __Descrizione:__ Action plan and support to implementation for making
-      Elemize Platform compliant to Enel cybersecurity guidelines. Development
-      of new components of the Enel IoT management software based on Kubernetes
-      and balenaEngine. Introduction of software signature checks for IoT devices and traffic monitoring for intrusion detection._
+      __Descrizione:_Action plan and support to implementation for making Elemize Platform compliant to Enel cybersecurity guidelines. Development of new components of the Enel IoT management software based on Kubernetes and balenaEngine. Introduction of software signature checks for IoT devices and traffic monitoring for intrusion detection._
     image: /img/portfolio/aubay.jpg
   - title: ACI Informatica
     description: |-
@@ -41,9 +36,8 @@
 
       __Descrizione:__ Corsi di formazione per il personale IT su Kubernetes, Rancher, OpenShift, Linux, Cybersecurity: "Service Mesh with Istio", "Linux Administration", "RedHat System Administration", "TSRW - Tecnologia e sicurezza delle reti Wireless"
     image: /img/portfolio/aubay.jpg
-- year: |-
-    ## A.D. 2020
-  customers:
+
+
   - title: Omissis
     description: |-
       __Tipologia:__ Consulenza
