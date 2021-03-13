@@ -35,7 +35,7 @@
 - [ ] Scrivere pagina dei credits 
 - [ ] La favicon nel browser chrome è più piccola rispetto al sito vecchio
 - [ ] Nei prodotti, Description va sostituito con Descrizione
-- [ ] Logo nero per Ansible nei prodotti (invece che grigio)
+- [X] Logo nero per Ansible nei prodotti (invece che grigio)
 
 # bulma-clean-theme
 
