@@ -1,7 +1,7 @@
 - intro: |-
-    # Una Breve introduzione (facoltativa..)
+    ## Il portfolio clienti di Binario Etico
 - year: |-
-    ## A.D. 2021
+    ## 2021
   customers:
   - title: Università di Torino
     description: |-
@@ -42,7 +42,7 @@
       __Descrizione:__ Corsi di formazione per il personale IT su Kubernetes, Rancher, OpenShift, Linux, Cybersecurity: "Service Mesh with Istio", "Linux Administration", "RedHat System Administration", "TSRW - Tecnologia e sicurezza delle reti Wireless"
     image: /img/portfolio/aubay.jpg
 - year: |-
-    ## A.D. 2020
+    ## 2020
   customers:
   - title: Omissis
     description: |-
