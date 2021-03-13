@@ -1,6 +1,6 @@
 ---
 title: GitLab
-subtitle: Continuous Integration / Continuous Deployment
+subtitle: Continuous Integration / Continuous Deployment (CI/CD).
 description: test3
 layout: product
 hero_image: ../img/gitlab/gitlab_hero.jpeg
