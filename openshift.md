@@ -8,7 +8,10 @@ image: ../img/openshift/openshift_logo_640.png
 show_sidebar: false
 ---
 
-OpenShift è un prodotto Platform-as-a-Service (PaaS) di Red Hat pensato per il deploy e la scalabilità di applicazioni cloud. Esistono tre differenti versioni di OpenShift: OpenShift Origin, OpenShift Enterprise e OpenShift Online.
+OpenShift è un prodotto Platform-as-a-Service (PaaS) di Red Hat pensato per il deploy e la scalabilità di applicazioni cloud. Esistono tre differenti versioni di OpenShift:
+- OpenShift Origin
+- OpenShift Enterprise
+- OpenShift Online.
 
 **OpenShift Origin**, la versione community di OpenShift, è il progetto fondamentale, base di partenza per le altre due versioni. Consente di mettere in esercizio il PaaS su qualunque tipo di infrastruttura IT, anche eterogea, on-premise o in hosting esterno. Ideale per l'early adoption, comprende tutte le ultime feature sviluppate. 
 
