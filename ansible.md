@@ -4,7 +4,7 @@ subtitle: Automazione e flessibilità per Infrastructure-as-code. La gestione de
 description: Test
 layout: product
 hero_image: ../img/ansible/ansible_hero.jpeg
-image: ../img/ansible/ansible_logo_641.png
+image: ../img/ansible/ansible_logo_640_1.png
 show_sidebar: false
 ---
 Ansible non dovrebbe mancare nella cassetta degli attrezzi di chi deve automatizzare o gestire infrastrutture IT. Attraverso Ansible possiamo **automatizzare il cloud provisioning**, la **gestione delle configurazioni** e il **deployment sicuro** di applicazioni.
