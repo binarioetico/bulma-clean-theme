@@ -1,6 +1,6 @@
 ---
 title: Rancher
-subtitle: Utilizzato per semplificare la gestione ed aumentare la resilienza, Rancher rappresenta lo standard-de-facto delle piattaforme di orchestrazione di container.
+subtitle: Semplifica la gestione e aumenta la resilienza con Rancher, lo standard-de-facto delle piattaforme di orchestrazione di container.
 description: test3
 layout: product
 hero_image: ../img/rancher/rancher_hero.jpeg

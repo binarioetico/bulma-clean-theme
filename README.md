@@ -18,7 +18,7 @@
 - [X] Logo BE con nuovo testo (Digital Freedom)
 - [ ] Sistemare CSS footer per i link on mouseover (diventano dello stesso colore dello sfondo)
 - [X] Sistemare CSS navbar con menu (colore sfondo della voce con i menu sbagliata)
-- [ ] **Testo per pagine OpenShift a Gitlab**
+- [X] **Testo per pagine OpenShift a Gitlab**
 - [X] OpenShift: pagina e foto
 - [X] GitLab: pagina e foto
 - [X] OpenStack: pagina e foto
@@ -34,6 +34,7 @@
 - [ ] Aggiungere License CC-BY-SA nel footer, a sinistra di privacy policy
 - [ ] Scrivere pagina dei credits 
 - [ ] La favicon nel browser chrome è più piccola rispetto al sito vecchio
+- [ ] Nei prodotti, Description va sostituito con Descrizione
 
 # bulma-clean-theme
 
