@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle:
+subtitle: Il portfolio clienti di Binario Etico
 layout: page
 showcase: portfolio
 hero_image: ../img/portfolio_hero.jpeg
