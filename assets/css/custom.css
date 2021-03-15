@@ -123,3 +123,11 @@ a.navbar-item:hover {
 .showcase-span {
   vertical-align: : bottom;
 }
+
+.footer-link {
+  color: #8ad130 !important;
+}
+
+.footer-link:hover {
+  color: #f4660f !important;
+}
