@@ -3,7 +3,7 @@ title: Lavora con noi
 subtitle: We are hiring!
 description: Lavora con noi - We are hiring!
 layout: page
-show_sidebar: false
+show_sidebar: true
 hero_image: ../img/lavoraconnoi_hero.png
 ---
 Cerchiamo persone a cui piaccia l'innovazione su tecnologie Open, nel contesto delle infrastrutture IT.  
