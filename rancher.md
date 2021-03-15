@@ -1,7 +1,7 @@
 ---
 title: Rancher
 subtitle: Semplifica la gestione e aumenta la resilienza nell'adozione di Kubernetes.
-description: test3
+description: Rancher - una piattaforma all'avanguardia per la gestione di Kubernetes in contesti di produzione.
 layout: product
 hero_image: ../img/rancher/rancher_hero.jpeg
 image: ../img/rancher/rancher_logo_640.png

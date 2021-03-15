@@ -16,7 +16,7 @@
 - [X] Formazione: aggiungere ISTIO
 - [X] Sistemare la navbar (vedere in assets/css/custom.css .navbar-bg), sfondo delle voci selezionate
 - [X] Logo BE con nuovo testo (Digital Freedom)
-- [ ] Sistemare CSS footer per i link on mouseover (diventano dello stesso colore dello sfondo)
+- [X] Sistemare CSS footer per i link on mouseover (diventano dello stesso colore dello sfondo)
 - [X] Sistemare CSS navbar con menu (colore sfondo della voce con i menu sbagliata)
 - [X] **Testo per pagine OpenShift a Gitlab**
 - [X] OpenShift: pagina e foto
@@ -34,7 +34,7 @@
 - [ ] Aggiungere License CC-BY-SA nel footer, a sinistra di privacy policy
 - [X] Scrivere pagina dei credits 
 - [ ] La favicon nel browser chrome è più piccola rispetto al sito vecchio
-- [ ] Nei prodotti, Description va sostituito con Descrizione
+- [X] ~~Nei prodotti, Description va sostituito con Descrizione~~ Tolto Description dal template
 - [X] Logo nero per Ansible nei prodotti (invece che grigio)
 - [ ] Nella Page 2 delle notizie del Blog non si vedono i loghi di BE e RIOS nella testata
 

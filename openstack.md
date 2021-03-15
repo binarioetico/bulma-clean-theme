@@ -2,7 +2,7 @@
 title: OpenStack
 subtitle: Il sistema operativo cloud più diffuso al mondo.
 hero_image: ../img/openstack/openstack_hero.jpeg
-description: test3
+description: Il sistema operativo della cloud più diffuso al mondo. Con OpenStack gestisci il tuo IT come se fosse codice.
 layout: product
 image: ../img/openstack/openstack_logo_640.png
 show_sidebar: false
@@ -32,4 +32,4 @@ OpenStack consente di gestire con un **unico set di API** qualunque tipo di riso
 <!-- <img src="{{ 'openstack_orchestration' | append: '.png' | prepend: '/img/openstack/' | prepend: site.baseurl }}" alt="OpenStack" class="img-responsive" style="max-width: 40%"> -->
 <!--![OpenStack Orchestration]({{ 'openstack_orchestration' | append: '.png' | prepend: '/img/openstack/' | prepend: site.baseurl }}) -->
 
-![OpenStack Automation](../img/openstack/openstack_fumetto.png) 
+![OpenStack Automation](../img/openstack/openstack_fumetto.png)

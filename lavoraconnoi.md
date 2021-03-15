@@ -1,6 +1,7 @@
 ---
 title: Lavora con noi
 subtitle: We are hiring!
+description: Lavora con noi - We are hiring!
 layout: page
 show_sidebar: false
 hero_image: ../img/lavoraconnoi_hero.png

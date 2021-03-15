@@ -2,6 +2,7 @@
 title: Chi siamo
 layout: page
 show_sidebar: false
+description: Il Team di Binario Etico.
 <!-- hero_image: ../img/chisiamo_hero.jpeg -->
 hero_image: ../img/chisiamo/hero_bg1.jpg
 hero_logo1: ../img/chisiamo/logo_be_chisiamo3.png

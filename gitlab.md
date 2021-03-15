@@ -1,7 +1,7 @@
 ---
 title: GitLab
 subtitle: Continuous Integration / Continuous Deployment (CI/CD).
-description: test3
+description: Continuous Integration / Continuous Deployment (CI/CD).
 layout: product
 hero_image: ../img/gitlab/gitlab_hero.jpeg
 image: ../img/gitlab/gitlab_logo_640.png
@@ -9,7 +9,7 @@ show_sidebar: false
 ---
 GitLab è la piattaforma DevOps più completa al mondo, che consente di gestire per intero e tenere sotto controllo il ciclo di sviluppo e deployment del codice. Installalo in self-hosting e tieni al sicuro i tuoi asset informativi e i tuoi strumenti di lavoro.
 
-Le categorie di funzionalità di GitLab abbracciano i diversi stage di lavorazione: 
+Le categorie di funzionalità di GitLab abbracciano i diversi stage di lavorazione:
 
 1. Manage
 - Subgroups
