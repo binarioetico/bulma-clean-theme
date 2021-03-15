@@ -36,6 +36,7 @@
 - [ ] La favicon nel browser chrome è più piccola rispetto al sito vecchio
 - [ ] Nei prodotti, Description va sostituito con Descrizione
 - [X] Logo nero per Ansible nei prodotti (invece che grigio)
+- [ ] Nella Page 2 delle notizie del Blog non si vedono i loghi di BE e RIOS nella testata
 
 # bulma-clean-theme
 

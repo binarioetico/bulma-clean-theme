@@ -5,7 +5,7 @@ layout: page
 show_sidebar: false
 hero_image: ../img/lavoraconnoi_hero.png
 ---
-Cerchiamo persone a cui piaccia l'innovazione su tecnologie Open.  
+Cerchiamo persone a cui piaccia l'innovazione su tecnologie Open, nel contesto delle infrastrutture IT.  
 
 I candidati e le candidate interessate possono inviare il CV aggiornato, rilasciando specifica autorizzazione al trattamento dei dati personali, ed indicando l’attuale inquadramento e tempi di disponibilità.
 
