@@ -243,7 +243,7 @@
       __Tecnologia:__ OpenStack, Jelastic
 
       __Descrizione:__  Cyber Security course. Technical trainer in a Cyber Security professional course for Selda Informatica. Teaching IT infrastructures evolution, Infrastructure-as-code with OpenStack and DevOps approaches and tools.
-    image: /img/oprtfolio/confindustria.jpg
+    image: /img/portfolio/confindustria.jpg
   - title: Ericsson
     description: |-
       __Tipologia:__ Formazione
@@ -251,7 +251,7 @@
       __Tecnologia:__ Ansible
 
       __Descrizione:__ Progettazione ed erogazione corso "Ansible/Python for DevOps". Corso di 4 giorni su automazione Ansible/Python Fornitura di.60 VM in modalità IaaS e relativa configurazione basata su Ansible e Heat.
-    image: /img/OmissisOmissisportfolio/omissis.jpeg
+    image: /img/portfolio/omissis.jpeg
   - title: Hermes Bay
     description: |-
       __Tipologia:__ Formazione
@@ -267,4 +267,4 @@
       __Tecnologia:__ OpenStack
 
       __Descrizione:__ VMs migration in the DC. 30 VMs e ricostruzione networking.
-    image: /img/OmissisOmissisportfolio/fiumicino.png
+    image: /img/portfolio/fiumicino.png

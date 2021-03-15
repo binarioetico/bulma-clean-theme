@@ -36,7 +36,8 @@
 - [ ] La favicon nel browser chrome è più piccola rispetto al sito vecchio
 - [X] ~~Nei prodotti, Description va sostituito con Descrizione~~ Tolto Description dal template
 - [X] Logo nero per Ansible nei prodotti (invece che grigio)
-- [ ] Nella Page 2 delle notizie del Blog non si vedono i loghi di BE e RIOS nella testata
+- [X] Nella Page 2 delle notizie del Blog non si vedono i loghi di BE e RIOS nella testata
+- [ ] togliere tutti i riferimenti a bulma-clean-theme. Sia quelli visibili pubblicamente, sia quelli visibili solo a noi. Rimuovere monnezza, immagini non utilizzate, nomi che includono "example" o "template", adottare una strategia coerenti per le sotto cartelle, rifare tutti i riferimenti in base a tale strategia.
 
 # bulma-clean-theme
 
