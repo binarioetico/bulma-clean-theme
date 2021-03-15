@@ -4,7 +4,7 @@ title:  "Think Tank 4 Recovery"
 date:   2021-03-01 10:00:00
 categories: development
 description: "Scriviamo oggi il nostro futuro"
-image: ../img/tt4r,png
+image: ../img/tt4r.png
 published: true
 canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---

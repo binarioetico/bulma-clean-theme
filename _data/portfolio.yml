@@ -199,7 +199,7 @@
 
       __Descrizione:__ Progettazione ed erogazione di seminari su piattaforme e infrastrutture per il full stack deployment, con focus su Iperconvergenza, DevOps configuration management, Container e Microservizi, CI/CD, Container Orchestration, Big Data Computing e Machine Learning.
     image: /img/portfolio/ericsson.png
-  - title: Omissis
+  - title: Ericsson
     description: |-
       __Tipologia:__ Formazione
 
@@ -251,7 +251,7 @@
       __Tecnologia:__ Ansible
 
       __Descrizione:__ Progettazione ed erogazione corso "Ansible/Python for DevOps". Corso di 4 giorni su automazione Ansible/Python Fornitura di.60 VM in modalità IaaS e relativa configurazione basata su Ansible e Heat.
-    image: /img/portfolio/omissis.jpeg
+    image: /img/portfolio/ericsson.png
   - title: Hermes Bay
     description: |-
       __Tipologia:__ Formazione
