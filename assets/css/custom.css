@@ -58,6 +58,7 @@ summary {
 .soluzioni-description {
   padding-left: 3%;
 }
+
 /* NavBar Color Customization */
 .navbar-logos img {
   max-height: 2.6rem !important;
@@ -124,10 +125,26 @@ a.navbar-item:hover {
   vertical-align: : bottom;
 }
 
-.footer-link {
+/* BE Link Colors: Green, Orange onmouseover */
+.be-link-colors {
   color: #8ad130 !important;
 }
 
-.footer-link:hover {
+.be-link-colors:hover {
   color: #f4660f !important;
 }
+
+.pagination-be-link-colors {
+  color: #8ad130 !important;
+}
+
+.pagination-be-link-colors:hover {
+  color: #f4460f !important;
+}
+
+.pagination-be-link-colors.is-current {
+  background-color: #8ad130 !important;
+  color: #ffffff !important;
+  border-color: #8ad130 !important;
+}
+/* end BE link colors */
