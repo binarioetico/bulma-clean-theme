@@ -32,6 +32,11 @@
       of new components of the Enel IoT management software based on Kubernetes
       and balenaEngine. Introduction of software signature checks for IoT devices and traffic monitoring for intrusion detection._
     image: /img/portfolio/enel.jpeg
+
+- year: |-
+    ## 2020
+  customers:
+
   - title: ACI Informatica
     description: |-
       __Tipologia:__ Formazione
@@ -40,9 +45,6 @@
 
       __Descrizione:__ Corsi di formazione per il personale IT su Kubernetes, Rancher, OpenShift, Linux, Cybersecurity: "Service Mesh with Istio", "Linux Administration", "RedHat System Administration", "TSRW - Tecnologia e sicurezza delle reti Wireless"
     image: /img/portfolio/aci.jpg
-- year: |-
-    ## 2020
-  customers:
   - title: Omissis
     description: |-
       __Tipologia:__ Consulenza
@@ -50,7 +52,7 @@
       __Tecnologia:__ Cybersecurity, OpenStack, Kubernetes
 
       __Descrizione:__  Architettura IT secure-by-design per l'elaborazione massiva di dati basata su strato IaaS OpenStack e orchestrazione di container con OpenShift.
-    image: /img/portfolio/omississ.jpeg
+    image: /img/portfolio/omissis.jpeg
   - title: SFC - Sistemi Formativi Confindustria
     description: |-
       __Tipologia:__ Sviluppo, deployment e supporto
@@ -92,75 +94,84 @@
       __Descrizione:__ Corsi di formazione per il personale IT su architetture software, infrastrutture IT, CISCO, sicurezza, cloud-native application, microservices, DevOps, Container, Kubernetes, OpenShift, Ansible...
     image: /img/portfolio/poste.png
 
-  - title: Test
+- year: |-
+      ## 2019
+  customers:
+
+  - title: Omissis
+    description: |-
+      __Tipologia:__ Consulenza
+
+      __Tecnologia:__ Cybersecurity
+
+      __Descrizione:__ As-Is e To-Be su infrastruttura IT interna. VA e PT. Sintesi dei risultati e presentazione.
+    image: /img/portfolio/omissis.jpeg
+  - title: TIM
+    description: |-
+      __Tipologia:__ Consulenza
+
+      __Tecnologia:__ Kubernetes, Rancher
+
+      __Descrizione:__  Installazione Rancher in modalità High Availability.
+    image: /img/portfolio/tim.png
+  - title: Telespazio
+    description: |-
+      __Tipologia:__ Consulenza
+
+      __Tecnologia:__ OpenStack
+
+      __Descrizione:__ Support for fixing problems of an internal OpenStack deployment, writing backup and restore procedures, migrating workloads, automation schemes.
+    image: /img/portfolio/telespazio.png
+  - title: TIM
+    description: |-
+      __Tipologia:__ Consulenza
+
+      __Tecnologia:__ OpenStack
+
+      __Descrizione:__ Support on architecture design, roles and domains configuration and onboarding. Migration of tenants and workloads from a old OpenStack farm to a new one deployed on 3 Regions.
+    image: /img/portfolio/tim.png
+  - title: Agenzia delle Entrate e della Riscossione
+    description: |-
+      __Tipologia:__ Consulenza
+
+      __Tecnologia:__ Ansible
+
+      __Descrizione:__ Training on the job on provisioning and configuration with Ansible. Support on application deployment with Ansible\:, distribution of Wazuh agents on internal nodes.
+    image: /img/portfolio/ader.png
+
+- year: |-
+    ## 2018
+  customers:
+
+  - title: Citelum
+    description: |-
+      __Tipologia:__ Formazione e consulenza
+
+      __Tecnologia:__ Ansible, Docker, Kubernetes, OpenStack, Kafka, GitLab
+
+      __Descrizione:__ GDPR training and consultancies. Sicurezza, privacy, GDPR compliance, norme minime. Supporto per presentazione a Gara di Appalto (infrastruttura e piattaforme per applicazioni Smart City) Progettazione della nuova infrastruttura IT per il delivery di applicazioni Smart City.
+    image: /img/portfolio/citelum.png
+  - title: Movimento dei Focolari
+    description: |-
+      __Tipologia:__ Deployment e Training on the Job
+
+      __Tecnologia:__ OpenStack
+
+      __Descrizione:__ Design and deployment of OpenStack (kolla-ansible) on three Hyper-converged nodes. Training on the Job for migrating workloads and starting the production. Monitoring of the farm through Kibana.
+    image: /img/portfolio/focolari.png
+  - title: CSI Piemonte
     description: |-
       __Tipologia:__ Formazione
 
-      __Tecnologia:__ Kubernetes, OpenShift
+      __Tecnologia:__ OpenStack
 
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
+      __Descrizione:__ OpenStack Advanced training course. Molto avanzato, 9 giorni
+    image: /img/portfolio/csi.jpg
+  - title: Omissis
     description: |-
-      __Tipologia:__ Formazione
+      __Tipologia:__ Consulenza
 
-      __Tecnologia:__ Kubernetes, OpenShift
+      __Tecnologia:__ Ansible
 
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
-    description: |-
-      __Tipologia:__ Formazione
-
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
-    description: |-
-      __Tipologia:__ Formazione
-
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
-    description: |-
-      __Tipologia:__ Formazione
-
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
-    description: |-
-      __Tipologia:__ Formazione
-
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
-    description: |-
-      __Tipologia:__ Formazione
-
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
-    description: |-
-      __Tipologia:__ Formazione
-
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
-  - title: Test
-    description: |-
-      __Tipologia:__ Formazione
-
-      __Tecnologia:__ Kubernetes, OpenShift
-
-      __Descrizione:__ Corsi di formazione per il personale IT su applicazioni cloud-native con container, Kubernetes e OpenShift.
-    image: /img/portfolio/aubay.jpg
+      __Descrizione:__ Progettazione strato di automazione per 600 server in 42 diversi Dcs. Deployment automatico e versioning.
+    image: /img/portfolio/omissis.jpg
