@@ -138,11 +138,6 @@
 
       __Descrizione:__ Training on the job on provisioning and configuration with Ansible. Support on application deployment with Ansible\:, distribution of Wazuh agents on internal nodes.
     image: /img/portfolio/ader.png
-
-- year: |-
-    ## 2018
-  customers:
-
   - title: Citelum
     description: |-
       __Tipologia:__ Formazione e consulenza
@@ -151,6 +146,11 @@
 
       __Descrizione:__ GDPR training and consultancies. Sicurezza, privacy, GDPR compliance, norme minime. Supporto per presentazione a Gara di Appalto (infrastruttura e piattaforme per applicazioni Smart City) Progettazione della nuova infrastruttura IT per il delivery di applicazioni Smart City.
     image: /img/portfolio/citelum.png
+
+- year: |-
+    ## 2018
+  customers:
+
   - title: Movimento dei Focolari
     description: |-
       __Tipologia:__ Deployment e Training on the Job
