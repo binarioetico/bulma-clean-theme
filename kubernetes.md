@@ -1,7 +1,7 @@
 ---
 title: Kubernetes
 subtitle: Musica, maestro!
-description: test3
+description: Utilizzato per semplificare la gestione ed aumentare la resilienza, Kubernetes rappresenta lo standard-de-facto delle piattaforme di orchestrazione di container.
 layout: product
 hero_image: ../img/kubernetes/kubernetes_hero.jpeg
 image: ../img/kubernetes/kubernetes_logo_640.png
