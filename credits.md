@@ -5,9 +5,13 @@ layout: page
 show_sidebar: false
 hero_image: ../img/credits_hero.jpeg
 ---
+Le foto sono tratte da:
 unsplush
 
-creative commons
+La foto della home page è di 
 
-la vita e il suo travaglio
+Il template è di bulma
+
+Ringraziamo Jekhill GitHub pages, git e vi
+
 
