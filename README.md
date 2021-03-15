@@ -6,7 +6,7 @@
 - [X] Logo RIOS nella pag sponsor (o altrove ma in vista)
 - [X] **Testo per Mission e Vision da mettere in home** (per il momento, beccatevi Dante! :P)
 - [X] creare "Lavora con Noi"
-- [ ] **Scrivere Privacy Policy, Informativa Cookies etc etc..**
+- [X] **Scrivere Privacy Policy, Informativa Cookies etc etc..**
 - [ ] Privacy Policy e Informativa Cookies nel Footer (magari stessa colonna)
 - [X] Footer: far fuori Blog
 - [X] Footer: Seguici Su
@@ -32,7 +32,7 @@
 - [ ] sistemare portfolio (sopratutto per mobile.....)
 - [ ] sistemare i vari description (quelli legati a graph api...) se no la descrizione sarà sempre test...
 - [ ] Aggiungere License CC-BY-SA nel footer, a sinistra di privacy policy
-- [ ] Scrivere pagina dei credits 
+- [X] Scrivere pagina dei credits 
 - [ ] La favicon nel browser chrome è più piccola rispetto al sito vecchio
 - [ ] Nei prodotti, Description va sostituito con Descrizione
 - [X] Logo nero per Ansible nei prodotti (invece che grigio)

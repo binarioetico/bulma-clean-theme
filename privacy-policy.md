@@ -6,9 +6,9 @@ show_sidebar: false
 hero_image: ../img/privacy-policy_hero.jpg
 ---
 
-**Informativa al trattamento dei dati personali resa ai sensi degli art. 13-14 del Reg. (UE) 2016/679 GDPR (General Data Protection Regulation) e dell'art. 13 del Decreto legislativo 30 giugno 2003 n. 196 (Codice Privacy).
+**Informativa al trattamento dei dati personali resa ai sensi degli art. 13-14 del Reg. (UE) 2016/679 GDPR (General Data Protection Regulation) e dell'art. 13 del Decreto legislativo 30 giugno 2003 n. 196 (Codice Privacy).**
 
-Ultima revisione: 10 settembre 2019**
+**Ultima revisione: 10 settembre 2019**
 
 ## Introduzione
 
