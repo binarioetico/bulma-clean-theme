@@ -4,7 +4,7 @@ title: Contatti
 description: Contatti
 layout: page
 hero_image: ../img/contatti_hero.jpeg
-show_sidebar: false
+show_sidebar: true
 ---
 ## Binario Etico
 <i class="fas fa-paper-plane"> </i> info(AT)binarioetico(dot)it  

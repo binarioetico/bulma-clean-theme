@@ -32,11 +32,6 @@
       of new components of the Enel IoT management software based on Kubernetes
       and balenaEngine. Introduction of software signature checks for IoT devices and traffic monitoring for intrusion detection._
     image: /img/portfolio/enel.jpeg
-
-- year: |-
-    ## 2020
-  customers:
-
   - title: ACI Informatica
     description: |-
       __Tipologia:__ Formazione
@@ -45,6 +40,11 @@
 
       __Descrizione:__ Corsi di formazione per il personale IT su Kubernetes, Rancher, OpenShift, Linux, Cybersecurity: "Service Mesh with Istio", "Linux Administration", "RedHat System Administration", "TSRW - Tecnologia e sicurezza delle reti Wireless"
     image: /img/portfolio/aci.jpg
+
+- year: |-
+    ## 2020
+  customers:
+
   - title: Omissis
     description: |-
       __Tipologia:__ Consulenza
@@ -138,11 +138,6 @@
 
       __Descrizione:__ Training on the job on provisioning and configuration with Ansible. Support on application deployment with Ansible\:, distribution of Wazuh agents on internal nodes.
     image: /img/portfolio/ader.png
-
-- year: |-
-    ## 2018
-  customers:
-
   - title: Citelum
     description: |-
       __Tipologia:__ Formazione e consulenza
@@ -151,7 +146,12 @@
 
       __Descrizione:__ GDPR training and consultancies. Sicurezza, privacy, GDPR compliance, norme minime. Supporto per presentazione a Gara di Appalto (infrastruttura e piattaforme per applicazioni Smart City) Progettazione della nuova infrastruttura IT per il delivery di applicazioni Smart City.
     image: /img/portfolio/citelum.png
-  - title: Movimento dei Focolari
+
+- year: |-
+    ## 2018
+  customers:
+
+  - title: P.A.F.O.M.
     description: |-
       __Tipologia:__ Deployment e Training on the Job
 
@@ -173,5 +173,98 @@
 
       __Tecnologia:__ Ansible
 
-      __Descrizione:__ Progettazione strato di automazione per 600 server in 42 diversi Dcs. Deployment automatico e versioning.
-    image: /img/portfolio/omissis.jpg
+      __Descrizione:__ Progettazione strato di automazione per 600 server in 42 diversi Datacenter. Deployment automatico e versioning.
+    image: /img/portfolio/omissis.jpeg
+  - title: Wsense
+    description: |-
+      __Tipologia:__ Cloud automation and hosting
+
+      __Tecnologia:__ OpenStack
+
+      __Descrizione:__ Automazione a livello di OpenStack tenant per VMs aziendali (compreso hosting).
+    image: /img/portfolio/wsense.png
+  - title: Alten
+    description: |-
+      __Tipologia:__ Hardware e supporto
+
+      __Tecnologia:__ Debian
+
+      __Descrizione:__ Fornitura 4 server per infrastruttura di rete (Firewall).
+    image: /img/portfolio/alten.png
+  - title: Ericsson
+    description: |-
+      __Tipologia:__ Formazione
+
+      __Tecnologia:__ OpenStack, Ansible, Docker, Kubernetes, Kafka, GitLab
+
+      __Descrizione:__ Progettazione ed erogazione di seminari su piattaforme e infrastrutture per il full stack deployment, con focus su Iperconvergenza, DevOps configuration management, Container e Microservizi, CI/CD, Container Orchestration, Big Data Computing e Machine Learning.
+    image: /img/portfolio/ericsson.png
+  - title: Ericsson
+    description: |-
+      __Tipologia:__ Formazione
+
+      __Tecnologia:__ Docker, Kubernetes
+
+      __Descrizione:__ Corsi di formazione "Docker, the complete toolset" (2 giorni) e "Mastering Kubernetes from scratch" (3 giorni)
+    image: /img/portfolio/ericsson.png
+  - title: Unindustria
+    description: |-
+      __Tipologia:__ Consulenza
+
+      __Tecnologia:__ OpenStack, Ansible, Docker, Kubernetes, Kafka, GitLab
+
+      __Descrizione:__ Analisi dei processi di business e proposta di soluzioni per una digitalizzazione basata su paradigma Industry 4.0 per clienti come Shire, Dompé, Binet sul Liri e ACEA.
+    image: /img/portfolio/unindustria.png	
+
+- year: |-
+    ## 2017
+  customers:
+
+  - title: Alten
+    description: |-
+      __Tipologia:__ Sviluppo infrastruttura Cloud
+
+      __Tecnologia:__ OpenStack
+
+      __Descrizione:__ OpenStack-based cloud platform for storing data and virtualising testbeds in a system for monitoring and controling underwater devices.
+    image: /img/portfolio/alten.png
+  - title: Wsense
+    description: |-
+      __Tipologia:__ Cloud automation
+
+      __Tecnologia:__ OpenStack, Heat, Ansible
+
+      __Descrizione:__ Design and implementation of the whole IT infrastructure of the company, including portal, email and on-demand cloud-automated testing facilities. All based on IaaS solution (OpenStack tenant including hosting), Ansible and Heat. Design and implementation of the cloud automation layer for production-ready infrastructure orchestration, based on OpenStack
+    image: /img/portfolio/wsense.png
+  - title: Confindustria
+    description: |-
+      __Tipologia:__ Formazione
+
+      __Tecnologia:__ OpenStack, Jelastic
+
+      __Descrizione:__  Cyber Security course. Technical trainer in a Cyber Security professional course for Selda Informatica. Teaching IT infrastructures evolution, Infrastructure-as-code with OpenStack and DevOps approaches and tools.
+    image: /img/portfolio/confindustria.jpg
+  - title: Ericsson
+    description: |-
+      __Tipologia:__ Formazione
+
+      __Tecnologia:__ Ansible
+
+      __Descrizione:__ Progettazione ed erogazione corso "Ansible/Python for DevOps". Corso di 4 giorni su automazione Ansible/Python Fornitura di.60 VM in modalità IaaS e relativa configurazione basata su Ansible e Heat.
+    image: /img/portfolio/ericsson.png
+  - title: Hermes Bay
+    description: |-
+      __Tipologia:__ Formazione
+
+      __Tecnologia:__ Cybersecurity tools
+
+      __Descrizione:__ Cyber Security course. Scenari di attacco, analisi e reazione. Per personale tecnico.
+    image: /img/portfolio/hermesbay.png
+  - title: Comune di Fiumicino
+    description: |-
+      __Tipologia:__ Supporto su infrastruttura IT
+
+      __Tecnologia:__ OpenStack
+
+      __Descrizione:__ VMs migration in the DC. 30 VMs e ricostruzione networking.
+    image: /img/portfolio/fiumicino.png

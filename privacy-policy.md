@@ -2,7 +2,7 @@
 title: Privacy policy
 subtitle: Le nostre policy per privacy e cookie
 layout: page
-show_sidebar: false
+show_sidebar: true
 hero_image: ../img/privacy-policy_hero.jpg
 ---
 
