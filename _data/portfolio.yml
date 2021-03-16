@@ -151,7 +151,7 @@
     ## 2018
   customers:
 
-  - title: Movimento dei Focolari
+  - title: P.A.F.O.M.
     description: |-
       __Tipologia:__ Deployment e Training on the Job
 
@@ -207,7 +207,7 @@
 
       __Descrizione:__ Corsi di formazione "Docker, the complete toolset" (2 giorni) e "Mastering Kubernetes from scratch" (3 giorni)
     image: /img/portfolio/ericsson.png
-  - title: Unindustria (Shire, Dompé, Binet sul Liri, ACEA )
+  - title: Unindustria
     description: |-
       __Tipologia:__ Consulenza
 
