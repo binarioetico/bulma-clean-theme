@@ -122,7 +122,9 @@ a.navbar-item:hover {
 }
 
 .showcase-span {
-  vertical-align: : bottom;
+  position: absolute;
+  bottom: 0px;
+  
 }
 
 /* BE Link Colors: Green, Orange onmouseover */
