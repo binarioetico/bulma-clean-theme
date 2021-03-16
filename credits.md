@@ -2,7 +2,7 @@
 title: Credits
 subtitle: Riconoscimenti intellettuali
 layout: page
-show_sidebar: false
+show_sidebar: true
 hero_image: ../img/credits_hero.jpeg
 ---
 Le foto del sito sono tratte da Unsplash, The internet’s source of freely-usable images.
