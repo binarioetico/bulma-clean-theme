@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Think Tank 4 Recovery"
+date:   2021-03-16 09:00:00
+categories: digital_transformation
+description: "Scriviamo oggi il nostro futuro"
+image: ../img/blog_post/002_tt4r.png
+tags: Private-Cloud
+published: true
+<!-- canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html -->
+---
+
+Binario Etico partecipa al progetto Think Tank for Recovery (TT4R), un Think Tank di tecnologi per il recovery che mette l’IT al centro di una strategia nazionale di crescita. Progetti concreti, immediatamente applicabili accompagnati da analisi di fattibilità e costi. 
+
+Un'occasione che non va assolutamente persa. L’Information Technology e la Digital Transformation al centro di un vera strategia di crescita nazionale. Ecco una serie di progetti concreti, funzionali e immediatamente applicabili (analisi dei costi compresi) in 𝗧𝗧𝟰𝗥, un whitepaper libero e liberamente consultabile. Aiutaci a diffondere! Scriviamo oggi insieme il nostro futuro.
+
+https://tt4r.it/ 
