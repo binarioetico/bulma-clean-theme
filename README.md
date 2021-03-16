@@ -39,6 +39,8 @@
 - [X] Nella Page 2 delle notizie del Blog non si vedono i loghi di BE e RIOS nella testata
 - [ ] togliere tutti i riferimenti a bulma-clean-theme. Sia quelli visibili pubblicamente, sia quelli visibili solo a noi. Rimuovere monnezza, immagini non utilizzate, nomi che includono "example" o "template", adottare una strategia coerenti per le sotto cartelle, rifare tutti i riferimenti in base a tale strategia.
 - [ ] I link ai social di BE, portano fuori dal sito. Correggere: si deve aprire una nuova tab.
+- [ ] Una volta approvato il cookie, la barra inferiore del browser diventa la seguente PER SEMPRE: <<<<<<< HEAD ======= >>>>>>> 92de6b4c0ec7f3a6ea608ce0233b3276e987a20a Non è regolamentare
+- [ ] Attualmente il more info funziona, ma solo dalla home. Infatti si usa il ./ e non il ../  Come generalizzarlo?
 
 # bulma-clean-theme
 
