@@ -92,7 +92,3 @@ Le categorie di funzionalità di GitLab abbracciano i diversi stage di lavorazio
 - Container Scanning
 - Container Host Security
 - Container Network Security
-
-
-
-![GitLab Automation](../img/gitlab/gitlab_draw.png)
