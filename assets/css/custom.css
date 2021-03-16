@@ -18,6 +18,9 @@
   height: 75px;
   /* width: max-width !important; */
   object-fit: contain;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .corsi {
@@ -124,7 +127,7 @@ a.navbar-item:hover {
 .showcase-span {
   position: absolute;
   bottom: 0px;
-  
+
 }
 
 /* BE Link Colors: Green, Orange onmouseover */
