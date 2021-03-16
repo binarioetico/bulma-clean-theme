@@ -5,13 +5,7 @@
                 {{ site.title }}
             </a> -->
             <a href="{{ site.baseurl }}/" class="navbar-item navbar-logos">
-              {% if page.url == "/" %}
-              <img src="./img/logoBE_navbar.png">
-              {% elsif page.url contains "blog/page" %}
-              <img src="../../img/logoBE_navbar.png">
-              {% else %}
-              <img src="../img/logoBE_navbar.png">
-              {% endif %}
+              <img src="{{ site.baseurl }}/img/logoBE_navbar.png">
             </a>
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
                 <span aria-hidden="true"></span>
@@ -48,13 +42,7 @@
                 </a>
                 {% endif %} -->
                 <a href="https://www.reteitalianaopensource.net/" class="navbar-item navbar-logos">
-                  {% if page.url == "/" %}
-                  <img src="./img/logo_rios_white.png">
-                  {% elsif page.url contains "blog/page" %}
-                  <img src="../../img/logo_rios_white.png">
-                  {% else %}
-                  <img src="../img/logo_rios_white.png">
-                  {% endif %}
+                  <img src="{{ site.baseurl }}/img/logo_rios_white.png">
                 </a>
             </div>
 
