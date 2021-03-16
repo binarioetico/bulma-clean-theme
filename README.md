@@ -41,8 +41,8 @@
 - [X] I link ai social di BE, portano fuori dal sito. Correggere: si deve aprire una nuova tab.
 - [X] Una volta approvato il cookie, la barra inferiore del browser diventa la seguente PER SEMPRE: <<<<<<< HEAD ======= >>>>>>> 92de6b4c0ec7f3a6ea608ce0233b3276e987a20a Non è regolamentare [fixed: rigore per la juve, come al solito..]
 - [X] Attualmente il more info funziona, ma solo dalla home. Infatti si usa il ./ e non il ../  Come generalizzarlo?
-- [ ] Fissare massimo numero di latest post in side bar a 2
-- [ ] Latest post -> Ultimi post
+- [X] Fissare massimo numero di latest post in side bar a 2
+- [X] Latest post -> Ultimi post
 
 # bulma-clean-theme
 
