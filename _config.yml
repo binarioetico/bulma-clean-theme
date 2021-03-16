@@ -1,17 +1,17 @@
 # Site Settings
 title: BinarioEtico
-tagline: Bulma Clean Theme
+tagline: Binario Etico
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+  BE - Binario Etico
+baseurl: "/site"
 url: "https://binarioetico.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
-#hide_share_buttons: true
-#theme_color: '#eeeeee'
-# fixed_navbar: top
+# gh_sponsor: chrisrhymes
+hide_share_buttons: true
+# theme_color: '#ffffff'
+ # fixed_navbar: top
 remote_theme: chrisrhymes/bulma-clean-theme
 
 paginate: 5
@@ -22,7 +22,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname:
 
 
 plugins:
