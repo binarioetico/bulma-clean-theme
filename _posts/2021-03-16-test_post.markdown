@@ -4,7 +4,7 @@ title:  "Controllo del livello di rombo"
 date:   2021-03-16 09:00:00
 categories: antani
 description: "Test"
-image: ../img/tt4r.png
+image: /img/tt4r.png
 tags: qualcosa prova bla
 published: true
 <!-- canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html -->
