@@ -12,3 +12,7 @@ Kubernetes (**K8S**) è una piattaforma di orchestrazione di container su nodi d
 K8S raggruppa diversi host in un'unico cluster, fa girare i tuoi container sui nodi del cluster, replicandoli su diversi host quando necessario. Il tutto per garantire fault-tolerance, scaling orizzontale e verticale, aggiornamento e roll-back senza downtime.
 
 Scalabilità, sicurezza e disponibilità dei dati: sono questi i tre pilastri su cui si basa la piattaforma che cambierà il tuo modo di gestire i servizi IT.
+
+
+
+![Kubernetes Automation](../img/kubernetes/kubernetes_draw.png)

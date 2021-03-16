@@ -12,3 +12,6 @@ Rancher è una piattaforma di orchestrazione di livello enterprise basata su Kub
 Rancher e i servizi ad esso collegati, come **Longhorn**, permettono di gestire in modo semplice ed efficace ogni esigenza degli ambienti cloud di runtime, di scoprire automaticamente applicazioni da **cataloghi** e fare deployment complessi con un click.
 
 Che si tratti di definizione di **policy di sicurezza** per diversi carichi di lavoro, di gestione di **storage distribuito** o di deployment di nuovi servizi, Rancher è la soluzione alle tue esigenze.
+
+
+![Rancher Automation](../img/rancher/rancher_draw.jpg)

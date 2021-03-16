@@ -13,4 +13,4 @@ Utilizzato per costruire ambienti, eseguire parsing, invocare servizi, Ansible c
 
 Minimale, consistente e sicuro, Ansible non interferisce con l'ambiente applicativo e **non prevede agent** da dispiegare sui nodi.
 
-![Ansible Automation](../img/ansible/ansible_automation.jpg)
+![Ansible Automation](../img/ansible/ansible_draw.jpg)
