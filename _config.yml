@@ -4,7 +4,7 @@ tagline: Binario Etico
 email: your-email@domain.com
 description: >
   BE - Binario Etico
-baseurl: "/site"
+baseurl: "/bulma-clean-theme"
 url: "https://binarioetico.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
