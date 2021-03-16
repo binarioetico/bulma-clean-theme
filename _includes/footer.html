@@ -8,6 +8,10 @@
                 <div>
                     {% if item.link | relative_url %}
                     <a href="{{ item.link | relative_url }}" class="link be-link-colors">{{ item.name }}</a>
+                    {% if item.image %}
+                    <br>
+                    <a href="{{ item.link | relative_url}}" target="_blank" rel="noopener noreferrer" class="link be-link-colors"><img src= "{{ site.baseurl }}/{{ item.image }}""></img></a>
+                    {% endif %}
                     {% elsif item.social %}
                     <p class="">{{item.name}}</p>
                     <div class="content">
