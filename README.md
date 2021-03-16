@@ -25,13 +25,13 @@
 - [X] Private/Hybrid e Infrastructure Migration mancano ancora le immagini
 - [X] ~~Home page: Binario Etico (a capo) Digital Freedom, con a sinistra BE verde-arancione~~ Home Page: logo BE nello sfondo
 - [X] Home page: i prodotti sono 6, non 3. Barra grigio chiaro in home va raddoppiata, attualmente reca seco 3 prodotti
-- [ ] Nel riversare il link su Mattermost o su altri sistemi di instant messanging, c'è la descrizione del bulma e non di binario etico
+- [X] Nel riversare il link su Mattermost o su altri sistemi di instant messanging, c'è la descrizione del bulma e non di binario etico
 - [X] ~~L'immagine del Blog dovrebbe mostrare il bancone del locale~~ IMG blog ok (cambiata con altro)
 - [ ] Centrare i loghi tra loro nei "partner di BE" in chisiamo
 - [X] Inserire descrizione e subtitle per le voci in home (callouts) file: home_callouts.yml
 - [ ] sistemare portfolio (sopratutto per mobile.....)
-- [ ] sistemare i vari description (quelli legati a graph api...) se no la descrizione sarà sempre test...
-- [ ] Aggiungere License CC-BY-SA nel footer, a sinistra di privacy policy
+- [X] sistemare i vari description (quelli legati a graph api...) se no la descrizione sarà sempre test...
+- [X] Aggiungere License CC-BY-SA nel footer, a sinistra di privacy policy
 - [X] Scrivere pagina dei credits
 - [ ] La favicon nel browser chrome è più piccola rispetto al sito vecchio
 - [X] ~~Nei prodotti, Description va sostituito con Descrizione~~ Tolto Description dal template
@@ -41,6 +41,7 @@
 - [X] I link ai social di BE, portano fuori dal sito. Correggere: si deve aprire una nuova tab.
 - [X] Una volta approvato il cookie, la barra inferiore del browser diventa la seguente PER SEMPRE: <<<<<<< HEAD ======= >>>>>>> 92de6b4c0ec7f3a6ea608ce0233b3276e987a20a Non è regolamentare [fixed: rigore per la juve, come al solito..]
 - [X] Attualmente il more info funziona, ma solo dalla home. Infatti si usa il ./ e non il ../  Come generalizzarlo?
+- [ ] Fissare massimo numero di latest post in side bar a 2
 
 # bulma-clean-theme
 
