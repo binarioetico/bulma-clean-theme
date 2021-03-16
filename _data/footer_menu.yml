@@ -13,6 +13,7 @@
     P.I/C.F.: 14228701000
 - name: License
   image: /img/cc_by_sa.png
+  link: https://creativecommons.org/licenses/by-sa/4.0/
 - name: Privacy Policy
   link: /privacy-policy/
 - name: Credits
