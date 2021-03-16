@@ -4,7 +4,7 @@ title:  "Think Tank 4 Recovery"
 date:   2021-03-16 09:00:00
 categories: digital_transformation
 description: "Scriviamo oggi il nostro futuro"
-image: ../img/tt4r.png
+image: ../img/blog_post/002_tt4r.png
 tags: Private-Cloud
 published: true
 <!-- canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html -->
