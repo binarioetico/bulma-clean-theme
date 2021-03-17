@@ -1,7 +1,7 @@
 # Site Settings
-title: BinarioEtico
+title: Binario Etico
 tagline: Binario Etico
-email: your-email@domain.com
+email: info@binarioetico.it
 description: >
   BE - Binario Etico
 baseurl: "/bulma-clean-theme"
@@ -14,7 +14,7 @@ hide_share_buttons: true
  # fixed_navbar: top
 remote_theme: chrisrhymes/bulma-clean-theme
 
-paginate: 5
+paginate: 3
 paginate_path: "/blog/page:num"
 
 # Disqus Comments
