@@ -3,15 +3,25 @@ layout: post
 title:  "Think Tank 4 Recovery"
 date:   2021-03-16 09:00:00
 categories: digital_transformation
-description: "Scriviamo oggi il nostro futuro"
+description: "Think Tank for Recovery. Scriviamo oggi il nostro futuro"
 image: /img/blog_post/002_tt4r.png
 tags: Private-Cloud
 published: true
-<!-- canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html -->
+canonical_url: https://binarioetico.github.io/bulma-clean-theme/digital_transformation/2021/03/16/lancio_tt4r/
 ---
 
-Binario Etico partecipa al progetto Think Tank for Recovery (TT4R), un Think Tank di tecnologi per il recovery che mette l’IT al centro di una strategia nazionale di crescita. Progetti concreti, immediatamente applicabili accompagnati da analisi di fattibilità e costi.
+Binario Etico partecipa al progetto [Think Tank for Recovery (TT4R)](https://tt4r.it/), un white paper libero e liberamente utilizzabile che raccoglie articoli visionari di tecnologi per il recovery. TT4R mette l’IT al centro di una strategia nazionale di crescita, proponendo progetti concreti, immediatamente applicabili, accompagnati da analisi di fattibilità e costi.
 
-Un'occasione che non va assolutamente persa. L’Information Technology e la Digital Transformation al centro di un vera strategia di crescita nazionale. Ecco una serie di progetti concreti, funzionali e immediatamente applicabili (analisi dei costi compresi) in 𝗧𝗧𝟰𝗥, un whitepaper libero e liberamente consultabile. Aiutaci a diffondere! Scriviamo oggi insieme il nostro futuro.
+L'[articolo di Binario Etico](https://tt4r.it/chap/2-it-come-strategia-nazionale/it-come-strategia-nazionale-e-non-come-commodity.html) richiama l'attenzione sull'uso da parte della PA italiana di infrastrutture IT cloud di importazione, gestite dai cosiddetti Big Tech, e divenute oggi commodity economicamente accessibili (Public Cloud). Se questo per un verso ha risolto il nostro problema di incapacità di costruire servizi IT sicuri, scalabili e affidabili, dall’altro espone l’Italia alla espropriazione dei suoi asset informativi, alla esposizione dei dati dei propri cittadini e al controllo da parte di poteri terzi.
 
-https://tt4r.it/
+Gli strumenti software per costruire infrastrutture IT cloud-native esistono, sono disponibili con licenze Open Source e hanno raggiunto un alto livello di maturità. Occorre investire nelle competenze atte ad impiegare tali strumenti per un rinnovamento delle nostre infrastrutture IT, verso una piena automazione software-defined.
+
+L'[articolo](https://tt4r.it/chap/2-it-come-strategia-nazionale/it-come-strategia-nazionale-e-non-come-commodity.html) presenta questi strumenti software, sostenuti, tra gli altri, da Linux Foundation, Cloud Native Computing Foundation (CNCF) e Open Infrastructure Foundation, come l'antidoto contro il veleno del Public Cloud esterofilo, restituendo una visione tecnico/politica per una rinasciata post-olivettiana dell’IT italiano.
+
+Ma TT4R è anche uno spazio di condivisione e un punto di riferimento. Le associazioni, gli enti o i singoli che ne condividono lo spirito e sono interessati a farne parte, sono i benvenuti. E' sufficiente scrivere a:
+
+**info@tt4r.it**
+
+Si può contribuire scrivendo un articolo, supportando la comunicazione, o altro.
+
+Scriviamo oggi, insieme, il nostro futuro!
