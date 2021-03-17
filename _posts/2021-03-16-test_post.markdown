@@ -2,6 +2,7 @@
 layout: post
 title:  "Controllo del livello di rombo"
 date:   2021-03-16 09:00:00
+author: qualcuno
 categories: antani
 description: "Test"
 image: /img/blog_post/002_tt4r.png
