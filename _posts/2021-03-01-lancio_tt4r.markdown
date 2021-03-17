@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Think Tank 4 Recovery"
-date:   2021-03-16 09:00:00
+date:   2021-03-01 09:00:00
 categories: digital_transformation
 description: "Think Tank for Recovery. Scriviamo oggi il nostro futuro"
 image: /img/blog_post/002_tt4r.png
