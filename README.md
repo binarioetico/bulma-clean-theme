@@ -43,8 +43,8 @@
 - [X] Attualmente il more info funziona, ma solo dalla home. Infatti si usa il ./ e non il ../  Come generalizzarlo?
 - [X] Fissare massimo numero di latest post in side bar a 2
 - [X] Latest post -> Ultimi post
-- [ ] Il Read More conduce a pagina virtuale (/devsecops/2021/01/11/conformita_adattiva/) senza hero image.
-- [ ] Il "Published" e il "by" vanno controllati
+- [X] Il Read More conduce a pagina virtuale (/devsecops/2021/01/11/conformita_adattiva/) senza hero image.
+- [X] Il "Published" e il "by" vanno controllati
 
 # bulma-clean-theme
 
