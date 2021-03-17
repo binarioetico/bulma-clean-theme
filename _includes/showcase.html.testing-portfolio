@@ -14,15 +14,20 @@
     <div class="columns is-desktop is-multiline">
 
     {% for item in item.customers %}
-      <div class="column is-half showcase">
-        <figure class="image {% if item.image_ratio %} {{ item.image_ratio }} {% else %} is-portfolio {% endif %}">
+      <div class="column is-half showcase portfolio-div">
+
+        <!-- <figure class="image {% if item.image_ratio %} {{ item.image_ratio }} {% else %} is-portfolio {% endif %}">
           <img src="{{ item.image | relative_url }}" />
-      </figure>
+      </figure> -->
+        <img class="portfolio-img" src="{{ item.image | relative_url }}"/>
+        <br>
+        <div id="portfolio-text">
         <p class="title">{{ item.title }}</p>
         <!-- <p class="subtitle">{{ item.subtitle }}</p> -->
-          <!-- <div class="content"> -->
+          <!-- <div class="content" style="position: relative; bottom:0;"> -->
             <p>{{ item.description | markdownify }}</p>
           <!-- </div> -->
+      </div>
       <!-- </div> -->
       </div>
       <!-- </section> -->
