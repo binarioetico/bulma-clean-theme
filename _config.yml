@@ -65,9 +65,10 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Binario Etico"
       layout: post
       image: https://via.placeholder.com/1200x800
+      hero_image: /img/blog_hero_new.jpeg
       show_sidebar: true
 
 markdown: kramdown
