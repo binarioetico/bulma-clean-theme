@@ -149,13 +149,16 @@ a.navbar-item:hover {
 }
 /* end BE link colors */
 
-/* source https://www.w3schools.com/howto/howto_css_center-vertical.asp */
-.product-vertical-center-right-side {
-  margin: 0;
-  position: relative;
-  top: 50%;
-  padding-bottom: 1vmax;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  display: block;
+/* source https://www.w3schools.com/howto/howto_css_center-vertical.asp
+use this only if min-width>767px */
+@media (min-width: 767px) {
+  .product-vertical-center-right-side {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    padding-bottom: 1vmax;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    display: block;
+  }
 }
