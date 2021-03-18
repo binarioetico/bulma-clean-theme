@@ -32,4 +32,4 @@ OpenStack consente di gestire con un **unico set di API** qualunque tipo di riso
 <!-- <img src="{{ 'openstack_orchestration' | append: '.png' | prepend: '/img/openstack/' | prepend: site.baseurl }}" alt="OpenStack" class="img-responsive" style="max-width: 40%"> -->
 <!--![OpenStack Orchestration]({{ 'openstack_orchestration' | append: '.png' | prepend: '/img/openstack/' | prepend: site.baseurl }}) -->
 
-![OpenStack Automation](../img/openstack/openstack_draw.png)
+<!-- ![OpenStack Automation](../img/openstack/openstack_draw.png) -->

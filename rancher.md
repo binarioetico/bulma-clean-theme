@@ -14,4 +14,4 @@ Rancher e i servizi ad esso collegati, come **Longhorn**, permettono di gestire 
 Che si tratti di definizione di **policy di sicurezza** per diversi carichi di lavoro, di gestione di **storage distribuito** o di deployment di nuovi servizi, Rancher è la soluzione alle tue esigenze.
 
 
-![Rancher Automation](../img/rancher/rancher_draw.jpg)
+<!-- ![Rancher Automation](../img/rancher/rancher_draw.jpg) -->
