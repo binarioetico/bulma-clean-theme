@@ -28,11 +28,12 @@
   object-fit: contain;
 }
 
-.footer-text {
-  text-align: left;
-  color: #FFFFFF;
+@media (min-width: 767px) {
+  .footer-text {
+    text-align: left;
+    color: #FFFFFF;
+  }
 }
-
 details summary::-webkit-details-marker {
   position: absolute;
   left: 0;
