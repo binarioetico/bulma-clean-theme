@@ -32,4 +32,4 @@ Binario Etico vanta un catalogo di corsi che in pochi possono offrire oggi in It
 | <img src="../img/formazione/cybersecurity.png" class="corsi">| "Cybersecurity" | 10 | 10  |
 | <img src="../img/formazione/istio-bluelogo-nobackground-framed.svg" class="corsi"> | "Service Mesh with Istio" | 3 | 10 |
 
-Progettiamo anche corsi su misura.
+**Progettiamo anche corsi su misura.**
