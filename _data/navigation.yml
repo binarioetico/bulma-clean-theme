@@ -1,5 +1,5 @@
 - name: Chi siamo
-  link: /chisiamo/
+  link: /chi-siamo/
 - name: Prodotti
   link: /#
   dropdown:
@@ -33,7 +33,7 @@
 - name: Formazione
   link: /formazione/
 - name: Portfolio
-  link: /portfolio/
+  link: /portfolio-be/
 - name: Contatti
   link: /contatti/
 - name: Blog
