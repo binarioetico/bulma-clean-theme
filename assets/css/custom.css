@@ -201,3 +201,30 @@ use this only if min-width>767px */
 .product-img-div {
   max-height: 300px;
 }
+
+
+.portfolio-text-div {
+  align-self: flex-end;
+}
+
+.portfolio-customer-container {
+  /* position: relative; */
+  display: flex;
+  flex-direction: column;
+}
+
+.portfolio-img {
+  /* max-width: 150px; */
+  /* width: auto; */
+  /* height: 7px; */
+  /* height: 10%; */
+  /* height: 100px; */
+  height: 100px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  /* object-fit: contain; */
+  /* align-self: flex-start; */
+  /* display: block; */
+  /* flex: 0 0 100%; */
+}
