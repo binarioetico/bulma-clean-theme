@@ -28,6 +28,15 @@
   object-fit: contain;
 }
 
+@media (max-width: 767px) {
+    .corsi-mobile {
+      /* height: 20px; */
+      /* width: auto; */
+      /* object-fit: contain; */
+      display: none;
+    }
+}
+
 @media (min-width: 767px) {
   .footer-text {
     text-align: left;
