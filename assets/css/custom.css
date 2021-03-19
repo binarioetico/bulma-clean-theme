@@ -176,3 +176,19 @@ use this only if min-width>767px */
     filter: invert(71%);
   }
 }
+
+
+
+/* products logo custom resize */
+.product-img {
+  max-width: 80%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+/* unused */
+.product-img-div {
+  max-height: 300px;
+}
