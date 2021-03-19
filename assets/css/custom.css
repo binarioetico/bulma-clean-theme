@@ -90,9 +90,16 @@ summary {
   padding: 5px;
 }
 
+/* padding only, div */
 .custom-size-home-callout {
   padding-top: 4rem !important;
   padding-bottom: 4rem !important;
+}
+
+/* image size only src */
+.custom-size-callout-icon {
+  height: 6rem !important;
+  width: 6rem !important;
 }
 
 .showcase-span {
