@@ -173,6 +173,6 @@ use this only if min-width>767px */
 /* invert RIOS logo color on mobile */
 @media (max-width: 767px) {
   .invert-logo-colors {
-    filter: invert(100%);
+    filter: invert(71%);
   }
 }
