@@ -30,7 +30,7 @@
       __Descrizione:__ Action plan and support to implementation for making
       Elemize Platform compliant to Enel cybersecurity guidelines. Development
       of new components of the Enel IoT management software based on Kubernetes
-      and balenaEngine. Introduction of software signature checks for IoT devices and traffic monitoring for intrusion detection._
+      and balenaEngine. Introduction of software signature checks for IoT devices and traffic monitoring for intrusion detection.
     image: /img/portfolio/enel.jpeg
   - title: ACI Informatica
     description: |-
@@ -214,7 +214,7 @@
       __Tecnologia:__ OpenStack, Ansible, Docker, Kubernetes, Kafka, GitLab
 
       __Descrizione:__ Analisi dei processi di business e proposta di soluzioni per una digitalizzazione basata su paradigma Industry 4.0 per clienti come Shire, Dompé, Binet sul Liri e ACEA.
-    image: /img/portfolio/unindustria.png	
+    image: /img/portfolio/unindustria.png
 
 - year: |-
     ## 2017
