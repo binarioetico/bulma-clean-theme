@@ -20,7 +20,7 @@
                 {% for item in site.data.navigation %}
                     {% if item.dropdown %}
                     <div class="navbar-item has-dropdown is-hoverable {% if site.fixed_navbar == 'bottom' %} has-dropdown-up {% endif %}">
-                        <a href="{{ item.link | relative_url }}" class="navbar-link {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
+                        <a href="{{ item.link | relative_url }}" class="disable-link navbar-link {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
                         <div class="navbar-dropdown">
                             {% for subitem in item.dropdown %}
                             <a href="{{ subitem.link | relative_url }}" class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}">{{ subitem.name }}</a>
@@ -34,6 +34,7 @@
                 {% endif %}
             </div>
 
+            <!-- <div class="navbar-end" style="background-color:#363636;"> -->
             <div class="navbar-end">
                 <!-- {% if site.gh_sponsor %}
                 <a class="navbar-item" href="https://github.com/sponsors/{{ site.gh_sponsor }}">
@@ -42,7 +43,7 @@
                 </a>
                 {% endif %} -->
                 <a href="https://www.reteitalianaopensource.net/" class="navbar-item navbar-logos">
-                  <img src="{{ site.baseurl }}/img/logo_rios_white.png">
+                  <img src="{{ site.baseurl }}/img/logo_rios_white.png" class="invert-logo-colors">
                 </a>
             </div>
 

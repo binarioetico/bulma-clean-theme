@@ -28,11 +28,12 @@
   object-fit: contain;
 }
 
-.footer-text {
-  text-align: left;
-  color: #FFFFFF;
+@media (min-width: 767px) {
+  .footer-text {
+    text-align: left;
+    color: #FFFFFF;
+  }
 }
-
 details summary::-webkit-details-marker {
   position: absolute;
   left: 0;
@@ -148,3 +149,30 @@ a.navbar-item:hover {
   border-color: #8ad130 !important;
 }
 /* end BE link colors */
+
+/* source https://www.w3schools.com/howto/howto_css_center-vertical.asp
+use this only if min-width>767px */
+@media (min-width: 767px) {
+  .product-vertical-center-right-side {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    padding-bottom: 1vmax;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    display: block;
+  }
+}
+
+/* nav bar disable dropdown menu name clickable */
+.disable-link {
+  pointer-events: none;
+  cursor: default;
+}
+
+/* invert RIOS logo color on mobile */
+@media (max-width: 767px) {
+  .invert-logo-colors {
+    filter: invert(71%);
+  }
+}
