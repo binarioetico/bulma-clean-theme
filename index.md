@@ -1,7 +1,7 @@
 ---
 title: Binario Etico
 subtitle: Digital Freedom
-description: La Home Page di Binario Etico
+description: Digital Freedom
 layout: page
 callouts: home_callouts
 hero_image: ./img/homepage/hero_bg3.jpg
