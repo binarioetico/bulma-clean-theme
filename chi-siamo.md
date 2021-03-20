@@ -9,7 +9,7 @@ hero_logo1: ../img/chisiamo/logo_be_chisiamo3.png
 chisiamo: true
 show_sidebar: false
 ---
-Siamo ingegneri con esperienza ventennale nelle infrastrutture IT e competenze verticali sui sistemi distribuiti **cloud-native** e sulla **cybersecurity**. Cultori di innovazione in ambito “Cloud and IT Automation” con tecnologie **FOSS**, siamo specializzati sul ciclo di vita del software e la gestione del runtime in ambienti cloud-native resilienti e monitorabili.  
+Siamo ingegneri con esperienza ventennale nelle infrastrutture IT e competenze verticali sui sistemi distribuiti **cloud-native** e sulla **cybersecurity**. Cultori di innovazione in ambito “Cloud and IT Automation” con tecnologie **FLOSS**, siamo specializzati sul ciclo di vita del software e la gestione del runtime in ambienti cloud-native resilienti e monitorabili.  
 
 ## Cosa facciamo
 * Architetture **cloud-native**, in modalità **Private** o **Hybrid**, attraverso l'adozione di **OpenStack**, **Kubernetes**, **Rancher** e **OpenShift**.
@@ -34,7 +34,7 @@ Binario Etico fa parte della Rete Italiana Open Source (RIOS), una rete di impre
 
 <img src="../img/chisiamo/diag.jpg" width="90">
 
-Collabora stabilmente con [il Dipartimento di Ingegneria Informatica, Automatica e Gestionale (DIAG, ex DIS) dell'Università La Sapienza](http://www.diag.uniroma1.it/), nel quale conduce ricerca e docenze sul Cloud Computing self-hosted, aperto e libero.
+Collabora stabilmente con [il Dipartimento di Ingegneria Informatica, Automatica e Gestionale (DIAG, ex DIS) dell'Università La Sapienza](http://www.diag.uniroma1.it/){:target="_blank"}, nel quale conduce ricerca e docenze sul Cloud Computing self-hosted, aperto e libero.
 
 
 
