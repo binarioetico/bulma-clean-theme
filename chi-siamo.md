@@ -34,7 +34,7 @@ Binario Etico fa parte della Rete Italiana Open Source (RIOS), una rete di impre
 
 <img src="../img/chisiamo/diag.jpg" width="90">
 
-Collabora stabilmente con [il Dipartimento di Ingegneria Informatica, Automatica e Gestionale (DIAG, ex DIS) dell'Università La Sapienza](http://www.diag.uniroma1.it/){:target="_blank"}, nel quale conduce ricerca e docenze sul Cloud Computing self-hosted, aperto e libero.
+Collabora stabilmente con il Dipartimento di Ingegneria Informatica, Automatica e Gestionale (DIAG, ex DIS) dell'Università La Sapienza, nel quale conduce ricerca e docenze sul Cloud Computing self-hosted, aperto e libero.
 
 
 
@@ -42,7 +42,7 @@ Collabora stabilmente con [il Dipartimento di Ingegneria Informatica, Automatica
 **I Principali partner di Binario Etico sono:**
 
 |------------------------------------------|-----|
-| <img src="../img/chisiamo/OpenStack_Logo_2016.svg.png" class="partners"> | Membra della OpenStack foundation, Binario Etico è [OpenStack Supporting Organization](https://www.openstack.org/foundation/companies/){:target="_blank"}, partecipa agli [OpenStack Summit](https://www.openstack.org/summit){:target="_blank"} mondiali e organizza [Open Infrastructure Days in Italia](https://openinfraday.it/){:target="_blank"}.  |
+| <img src="../img/chisiamo/OpenStack_Logo_2016.svg.png" class="partners"> | Membra della Open Infrastructure Foundation, Binario Etico è [OpenStack Supporting Organization](https://www.openstack.org/foundation/companies/){:target="_blank"}, partecipa agli [Open Infrastructure Summit](https://www.openstack.org/summit){:target="_blank"} mondiali e organizza [Open Infrastructure Days in Italia](https://openinfraday.it/){:target="_blank"}.  |
 | <img src="../img/chisiamo/rancher-logo-stacked-color.png" class="partners"> | Distributori unici per l'Italia |
 | <img src="../img/chisiamo/OpenShift-LogoType.svg" class="partners"> | Distributori di OpenShift |
 | <img src="../img/chisiamo/gitlab.png" class="partners"> | Distributori di GitLab per l'Italia |
