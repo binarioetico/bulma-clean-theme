@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UNIRE"
+title:  "UNIRE, la Rete di interconnessione unica nazionale dell’istruzione"
 date:   2021-03-24 09:00:00
 categories: digital_transformation
 description: "Istituzione della Rete di interconnessione unica nazionale dell’istruzione"
@@ -24,4 +24,4 @@ Ad ogni modo, UNIRE consentirà di:
 - sviluppare e fornire il servizio unico nazionale per la didattica digitale integrata;
 - fornire servizi di sicurezza informatica e ambienti protetti per la didattica e per la didattica digitale integrata.
 
-La proposta è di costituire una società per azioni interamente partecipata dallo Stato, che esegua gli scopi indicati nel disegno di legge. Le note dolenti sono sulla copertura finanziaria: 20 milioni di euro ci paiono veramente pochi, forse non sufficienti neanche per il solo Private Cloud. Inoltre il disegno di legge potrebbe subire modifiche in Parlamento ed essere snaturato. Per questo motivo riteniamo importante sostenere il progetto facendo sentire la voce di chi ha a cuore l'autonomia digitale. Di certo, l'intuizione di fondo è valida: è veramente urgente sottrarre la Scuola ai GAFAM.
+La proposta è di costituire una società per azioni interamente partecipata dallo Stato, che esegua gli scopi indicati nel disegno di legge. Le note dolenti sono sulla copertura finanziaria: 20 milioni di euro ci paiono veramente pochi, forse non sufficienti neanche per il solo Private Cloud. Inoltre il disegno di legge potrebbe subire modifiche in Parlamento ed essere snaturato da portatori di interessi esterofili. Per questo motivo riteniamo importante sostenere il progetto facendo sentire la voce di chi ha a cuore l'autonomia digitale. Di certo, l'intuizione di fondo è valida: è veramente urgente sottrarre la Scuola ai GAFAM.
