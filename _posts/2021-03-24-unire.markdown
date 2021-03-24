@@ -3,7 +3,7 @@ layout: post
 title:  "UNIRE, la Rete di interconnessione unica nazionale dell’istruzione"
 date:   2021-03-24 09:00:00
 categories: digital_transformation
-description: "Istituzione della Rete di interconnessione unica nazionale dell’istruzione"
+description: "Un Private Cloud come piattaforma per la didattica digitale delle scuole italiane. Lo prevede un disegno di legge presentato al Senato. Un progetto incredibile per portata innovativa, ma anche una sfida che sarà molto difficile vincere, considerando gli enormi appetiti di dati dei Big Tech e le loro potenti lobby in azione nelle nostre istituzioni."
 image: /img/blog_post/003_unire.jpeg
 tags: Private-Cloud
 published: true
