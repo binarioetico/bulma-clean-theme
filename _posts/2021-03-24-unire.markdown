@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "UNIRE"
+date:   2021-03-24 09:00:00
+categories: digital_transformation
+description: "Istituzione della Rete di interconnessione unica nazionale dell’istruzione"
+image: /img/blog_post/003_unire.jpeg
+tags: Private-Cloud
+published: true
+canonical_url: https://binarioetico.it/digital_transformation/2021/03/24/unire/
+---
+
+Un cloud come piattaforma per la didattica digitale delle scuole italiane. Lo prevede il disegno di legge "Istituzione della Rete di interconnessione unica nazionale dell’istruzione – UNIRE", presentato al Senato. Il progetto prevede l'interconnessione delle scuole di ogni ordine e grado su un'unica rete veloce e si pone come alternativa autoctona alle piattaforme di Google e Microsoft. La prima firmataria del DDL è Maria Laura Mantovani, che ha sottolineato la particolare attenzione alla protezione dei dati degli studenti minorenni e alla gestione in proprio della cybersecurity.
+
+Un progetto incredibile per portata innovativa, ma anche una sfida che sarà molto difficile vincere, considerando gli enormi appetiti di dati dei Big Tech e le loro potenti lobby in azione nelle nostre istituzioni. Di sicuro ci sentiamo di sostenere il coraggio e la lungimiranza del DDL, che dimostra una competenza tecnica che ci ha piacevolmente sorpresi. Parla dei nostri temi, che proponiamo da anni con il nostro impegno professionale: in qualche modo la consideriamo anche una conferma della forza del nostro approccio all'autonomia digitale.
+
+I promotori dell'iniziativa hanno colto il punto nevralgico del processo di digitalizzazione del sistema scolastico italiano, ossia la necessità di pianificare innanzitutto l'adeguamento delle infrastrutture IT, soprattutto in termini di elaborazione, un tema su cui il nostro paese è molto indietro. E' stato individuata in un cloud privato una possibile soluzione che possa soddisfare i requisiti di digitalizzazione dei servizi didattici, amministrativi e connessi alle procedure di assunzione del personale della scuola. Rimane da definire il grado di decentralizzazione di tale soluzione, nell'ottica di una adeguata distribizione capillare sul territorio, sia in termini di hardware che di competenze. Si potrebbe così differenziare il rischio sui dati, massimizzare la continuità del servizio e minimizzare le latenze.
+
+Ad ogni modo, UNIRE consentirà di:
+
+- collegare le scuole tra di loro, con gli uffici scolastici regionali, con il ministero dell’Istruzione e globalmente alla rete Internet;
+- fornire servizi di rete di base quali DNS, servizi di memorizzazione dati e Cloud Computing;
+- fornire la base di accoglienza per tutti i servizi informatici sia amministrativi che didattici (platform as a service);
+- sviluppare e fornire il servizio unico nazionale per la didattica digitale integrata;
+- fornire servizi di sicurezza informatica e ambienti protetti per la didattica e per la didattica digitale integrata.
+
+La proposta è di costituire una società per azioni interamente partecipata dallo Stato, che esegua gli scopi indicati nel disegno di legge. Le note dolenti sono sulla copertura finanziaria: 20 milioni di euro ci paiono veramente pochi, forse non sufficienti neanche per il solo Private Cloud. Inoltre il disegno di legge potrebbe subire modifiche in Parlamento ed essere snaturato. Per questo motivo riteniamo importante sostenere il progetto facendo sentire la voce di chi ha a cuore l'autonomia digitale. Di certo, l'intuizione di fondo è valida: è veramente urgente sottrarre la Scuola ai GAFAM.
