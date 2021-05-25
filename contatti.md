@@ -12,3 +12,12 @@ show_sidebar: true
 <i class="fas fa-map-marker-alt"> </i> Via Flaminia 48, 00196 Roma  
 <br>
 <i class="fas fa-phone-alt"> </i> Tel. +39 340 4830930
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Ricevi la newsletter!
+<i class="fas fa-newspaper"> </i> <a href="https://list.binarioetico.it">Subscribe</a>
