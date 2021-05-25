@@ -19,5 +19,5 @@ show_sidebar: true
 <br>
 <br>
 
-## Ricevi la newsletter!
-<i class="fas fa-newspaper"> </i> <a href="https://list.binarioetico.it">Subscribe</a>
+# Ricevi la newsletter!
+<i class="fas fa-newspaper"> </i> <a href="https://list.binarioetico.it" target="_blank">Subscribe</a>
