@@ -16,8 +16,6 @@ show_sidebar: true
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ### Ricevi la newsletter!
 <i class="fas fa-newspaper"> </i> <a href="https://list.binarioetico.it" target="_blank">Subscribe</a>
