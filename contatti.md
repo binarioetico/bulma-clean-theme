@@ -14,8 +14,6 @@ show_sidebar: true
 <i class="fas fa-phone-alt"> </i> Tel. +39 340 4830930
 <br>
 <br>
-<br>
-<br>
 
 ### Ricevi la newsletter!
 <i class="fas fa-newspaper"> </i> <a href="https://list.binarioetico.it" target="_blank">Subscribe</a>
